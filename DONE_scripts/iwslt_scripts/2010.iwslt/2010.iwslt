@@ -1,0 +1,488 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<base href="http://www.mt-archive.info/10/">
+<link rel=File-List
+href="file:///C:\Users\John\Documents\MT%20Archive\MT-A%20transfer\conf-trans\IWSLT-2010-proceedings_files\filelist.xml">
+<title>International Workshop on Spoken Language Translation</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="Street"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="address"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>2</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:sansserif;
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-alt:"Times New Roman";
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.bibtex
+	{mso-style-name:bibtex;
+	mso-ansi-font-size:8.5pt;
+	mso-bidi-font-size:8.5pt;
+	font-family:sansserif;
+	mso-ascii-font-family:sansserif;
+	mso-hansi-font-family:sansserif;
+	border:solid black 1.0pt;
+	mso-border-alt:solid black .75pt;
+	padding:0cm;}
+@page Section1
+	{size:612.1pt 792.1pt;
+	margin:72.0pt 89.85pt 72.0pt 89.85pt;
+	mso-header-margin:35.45pt;
+	mso-footer-margin:35.45pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="4098"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='margin-top:36.0pt;margin-right:0cm;
+margin-bottom:18.0pt;margin-left:0cm;text-align:center'><b><span
+style='font-size:24.0pt;font-family:Arial'>International Workshop on Spoken
+Language Translation<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:15.5pt;font-family:Arial'>2-3 December, 2010 <br>
+<st1:place w:st="on"><st1:City w:st="on">Paris</st1:City>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='font-size:15.5pt;font-family:Arial'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt;font-family:Arial'>Proceedings<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:18.0pt;font-family:Arial'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><a href="IWSLT-2010-Mariani.pdf">Foreward</a>: Joseph
+Mariani (<st1:place w:st="on"><st1:City w:st="on">LIMSI-CNRS</st1:City> <st1:State
+ w:st="on">&amp;</st1:State> <st1:State w:st="on">IMMI</st1:State>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place>)</p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><a href="IWSLT-2010-participants.pdf">Participants</a></p>
+
+<p class=MsoNormal><a href="IWSLT-2010-program.pdf">Program</a></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Keynotes<o:p></o:p></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=MsoNormal><a href="IWSLT-2010-Bonet-ppt.pdf">Is machine translation
+ripe for EU translators</a>? Josep Bonet (DG Translation of the European
+Commisssion) [<a href="IWSLT-2010-abstracts.pdf">abstract</a>]</p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Byrne-ppt.pdf">Hierarchical phrase-based translation with
+weighted finite state transducers</a>: William Byrne (<st1:place w:st="on"><st1:City
+ w:st="on">Cambridge University</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>)
+[<a href="IWSLT-2010-abstracts.pdf">abstract</a>]<b><o:p></o:p></b></span></p>
+
+<p class=MsoNormal><span lang=EN style='mso-ansi-language:EN;mso-bidi-font-weight:
+bold'>Resources for adding semantics to machine translation: Jan Haji&#269; (<st1:PlaceName
+w:st="on">Charles</st1:PlaceName> <st1:PlaceName w:st="on">University</st1:PlaceName>
+in <st1:place w:st="on"><st1:City w:st="on">Prague</st1:City></st1:place>) [<a
+href="IWSLT-2010-abstracts.pdf">abstract</a>]</span><b><span style='color:black'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'>The
+Quaero program: multilingual and multimedia technologies: Jean-Luc Gauvain
+(LIMSI/CNRS, <st1:place w:st="on"><st1:City w:st="on">Orsay</st1:City>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place>) [<a
+href="IWSLT-2010-abstracts.pdf">abstract</a>]</span><span style='color:red;
+mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'>Evaluation Campaign<o:p></o:p></b></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><a href="IWSLT-2010-Paul.pdf">Overview of the IWSLT 2010
+evaluation campaign</a>: Michael Paul, Marcello Federico and Sebastian Stüker (<st1:City
+w:st="on">FBK-irst</st1:City>, <st1:country-region w:st="on">Italy</st1:country-region>;
+NICT, <st1:country-region w:st="on">Japan</st1:country-region>; <st1:City
+w:st="on">Karlsruhe</st1:City> Institute of <st1:place w:st="on"><st1:City
+ w:st="on">Technology</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>)
+… pp.3-27</p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Matusov.pdf">AppTek’s APT machine translation system for IWSLT
+2010</a>: Evgeny Matusov and Selçuk Köprü (Apptek, Inc., <st1:place w:st="on"><st1:country-region
+ w:st="on">Turkey</st1:country-region></st1:place>)… pp.29-36<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Almaghout-1.pdf">The DCU machine translation systems for IWSLT
+2010</a>: Hala Almaghout, Jie Jiang, and <st1:Street w:st="on"><st1:address
+ w:st="on">Andy Way</st1:address></st1:Street> (<st1:PlaceName w:st="on">Dublin</st1:PlaceName>
+<st1:PlaceType w:st="on">City</st1:PlaceType> <st1:PlaceType w:st="on">University</st1:PlaceType>,
+<st1:place w:st="on"><st1:City w:st="on">School of Computing</st1:City>, <st1:country-region
+ w:st="on">Ireland</st1:country-region></st1:place>)… pp.37-44<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Zamora-Martinez.pdf">N-gram-based machine translation enhanced
+with neural networks</a>: Francisco Zamora-Martinez, Maria Jose Castro-Bleda,
+and Holger Schwenk (Universidad CEU-Cardenal Herrera Politecnica de Valencia, <st1:place
+w:st="on"><st1:country-region w:st="on">Spain</st1:country-region></st1:place>)…
+pp.45-52<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Bisazza.pdf">FBK @ IWSLT 2010</a>: Arianna Bisazza, Ioannis
+Klasinas, Mauro Cettolo, and Marcello Federico (Fondazione Bruno Kessler,
+Ricerca Scientifica e <st1:place w:st="on"><st1:City w:st="on">Tecnologica</st1:City>,
+ <st1:country-region w:st="on">Italy</st1:country-region></st1:place>)…pp.53-58<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Gosme.pdf">The GREYC/LLACAN machine translation systems for
+the IWSLT 2010 campaign</a>: Julien Gosme, Wigdan Mekki, Fathi Debili, Yves
+Lepage and Nadine Lucas (University of Caen Basse-Normandie, GREYC,
+France)…pp.59-65<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Duan.pdf">I<sup>2</sup>R’s machine translation system for
+IWSLT 2010</a>: Xiangyu Duan, Rafael Banchs, Jun Lang, Deyi Xiong, Aiti Aw, Min
+Zhang, and Haizhou Li (Institute for Infocomm Research, Singapore)…pp.67-72<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Xiong.pdf">The ICT statistical machine translation system for
+IWSLT 2010</a>: Hao Xiong, Jun Xie, Hui Yu, Kai Liu, Wei Luo, Haitao Mi, Yang
+Liu, Yajuan Lü, and Qun Liu (Chinese Academy of Sciences, Institute of
+Computing Technology, China)…pp.73-79<i style='mso-bidi-font-style:normal'><o:p></o:p></i></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Ling-1.pdf">The INESC-ID machine translation system for the
+IWSLT 2010</a>: Wang Ling, Tiago Luís, João Graça, Luísa Coheur and Isabel
+Trancoso (Instituto de Engenharia de Sistemas e Computasores Investigacao e
+Desenvolvimento, Portugal)…pp.81-84<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Gasco.pdf">ITI-UPV machine translation system for IWSLT 2010</a>:
+Guillem Gascó, Vicent Alabau, Jesús-Andrés-Ferrer, Jesús González-Rubio, Martha-Alicia
+Rocha, Germán Sanchis-Trilles, Francisco Casacuberta, Jorge González, and
+Joan-Andreu Sánchez (Universidad Politécnica de Valencia, Instituto
+Universitario Mixto de Tecnología Informática, Spain)…pp.85-92 - <a
+href="IWSLT-2010-Sanchis-Trilles-ppt.pdf">presentation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Niehues.pdf">The KIT translation system for IWSLT 2010</a>:
+Jan Niehues, Mohammed Mediani, Teresa Herrmann, Michael Heck, Christian Herff,
+and Alex Waibel (Karlsruhe Institute of Technology, Germany)…pp.93-98<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Besacier.pdf">LIG statistical machine translation systems for
+IWSLT 2010</a>: Laurent Besacier, Haitem Afli, Do Thi Ngoc Diep, Hervé
+Blanchon, and Marion Potet (University J.Fourier, GETALP, LIG,
+France)…pp.99-104<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Allauzen.pdf">LIMSI @ IWSLT 2010</a>: Alexandre Allauzen,
+Josep M.Crego, &#304;lknur Durgar El-Kahlout, Le Hai-Son, Guillaume Wisniewski,
+and François Yvon (LIMSI-CNRS, France)…pp.105-112<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Rousseau.pdf">LIUM’s statistical machine translation system
+for IWSLT 2010</a>: Anthony Rousseau, Loïc Barrault, Paul Deléglise, and
+Yannick Estève (<st1:PlaceType w:st="on">University</st1:PlaceType> of <st1:PlaceName
+w:st="on">Le Mans</st1:PlaceName>, LIUM, <st1:place w:st="on"><st1:country-region
+ w:st="on">France</st1:country-region></st1:place>)…pp.113-117<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Turki.pdf">The MIRACL Arabic-English statistical machine translation
+system for IWSLT 2010</a>: Ines Turki Khemakhem, Salma Jamoussi, and Abdelmajid
+Ben Hamadou (MIRACL <st1:place w:st="on"><st1:City w:st="on">Laboratory</st1:City>,
+ <st1:country-region w:st="on">Tunisia</st1:country-region></st1:place>)…pp.119-125<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Shen.pdf">The MIT-LL/AFRL IWSLT-2010 MT system</a>: Wade Shen,
+Timothy Anderson, Raymond Slyh, and A.Ryan Aminzadeh (MIT Lincoln Laboratory, <st1:place
+w:st="on"><st1:country-region w:st="on">USA</st1:country-region></st1:place>)…pp.127-134
+- <a href="IWSLT-2010-Shen-ppt.pdf">presentation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Li.pdf">The MSRA machine translation system for IWSLT 2010</a>:
+Chi-Ho Li, Nan Duan, Yinggong Zhao, Shujie Liu, Lei Cui, Mei-yuh Hwang, Amittai
+Axelrod, Jianfeng Gao, Yaodong Zhang, and Li Deng (Microsoft Research Asia,
+Natural Language Computing, China)…pp.135-138 - <a href="IWSLT-2010-Li-ppt.pdf">presentation</a><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Goh.pdf">The NICT translation<span style='mso-spacerun:yes'> 
+</span>system for IWSLT 2010</a>: Chooi-Ling Goh, Taro Watanabe, Michael Paul,
+Andrew Finch, and Eiichiro Sumita<span style='mso-spacerun:yes'> 
+</span>(National Institute of Information and Communications Technology,
+Japan)…pp.139-146<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Sudoh.pdf">NTT statistical MT system for IWSLT 2010</a>:
+Katsuhito Sudoh, Kevin Duh, and Hajime Tsukada (NTT Communication Science Labs,
+<st1:place w:st="on"><st1:country-region w:st="on">Japan</st1:country-region></st1:place>)…pp.147-152<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Na.pdf">The POSTECH’s statistical machine translation system
+for the IWSLT 2010</a>: Hwidong Na and Jong-Hyeok Lee (Pohang University of
+Science and <st1:place w:st="on"><st1:City w:st="on">Technology</st1:City>, <st1:country-region
+ w:st="on">Korea</st1:country-region></st1:place>)…pp.153-156<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Yahyaei-1.pdf">The QMUL system description for IWSLT 2010</a>:
+Sirvan Yahyaei and Christof Monz (<st1:place w:st="on"><st1:City w:st="on">University
+  of London</st1:City>, <st1:country-region w:st="on">United Kingdom</st1:country-region></st1:place>)…pp.157-162<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Mansour-1.pdf">The RWTH Aachen machine translation system for
+IWSLT 2010</a>: Saab Mansour, Stephan Peitz, David Vilar, Joern Wuebker, and
+Hermann Ney (RWTH Aachen University, Germany)…pp.163-168<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Bar.pdf">Tel Aviv University’s system description for IWSLT
+2010</a>: Kfir Bar and Nachum Dershowitz (<st1:place w:st="on"><st1:City w:st="on">Tel
+  Aviv University</st1:City>, <st1:country-region w:st="on">Israel</st1:country-region></st1:place>)…pp.169-174<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Murakami.pdf">Statistical pattern-based MT with statistical
+French-English MT</a>: Jin’ichi Murakami, Takuya Nishimura and Masao Tokuhisa (<st1:place
+w:st="on"><st1:City w:st="on">Tottori University</st1:City>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>)…pp.175-182<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Mermer.pdf">The TÜB&#304;TAK-UEKAE statistical machine
+translation system for IWSLT 2010</a>: Coskun Mermer, Hamza Kaya, and Mehmet
+Ugur Dogan (<st1:place w:st="on"><st1:City w:st="on">TUBITAK-UEKAE</st1:City>, <st1:country-region
+ w:st="on">Turkey</st1:country-region></st1:place>) …pp.183-188<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Henriquez.pdf">UPC-BMIC-VDU system description for the IWSLT
+2010: testing several collocation segmentations in a phrase-based SMT system:</a>
+Carlos Henríquez, Marta R.Costa-jussà, Vidas Daudaravicius, Rafael E.Banchs,
+&amp; José B.Mariño (Universitat Politécnica de Catalunya, Spain)…pp.189-195<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Khalilov.pdf">ILLC-UvA machine translation system for the
+IWSLT 2010 evaluation</a>: Maxim Khalilov and Khalil Sima’an (University
+Amsterdam, The Netherlands)…pp.197-203<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Martzoukos.pdf">The UvA system description for IWSLT 2010</a>:
+Spyros Martzoukos and Christof Monz (University Amsterdam, The
+Netherlands)…pp.205-208<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span style='color:black'>Technical Papers<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Almaghout-2.pdf">CCG augmented hierarchical phrase-based
+machine translation</a>: Hala Almaghout, Jie Jiang, and <st1:Street w:st="on"><st1:address
+ w:st="on">Andy Way</st1:address></st1:Street> (<st1:place w:st="on"><st1:PlaceName
+ w:st="on">Dublin</st1:PlaceName> <st1:PlaceType w:st="on">City</st1:PlaceType>
+ <st1:PlaceType w:st="on">University</st1:PlaceType></st1:place>)…pp.211-218<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Apidianaki.pdf">An algorithm for cross-lingual
+sense-clustering tested in a MT evaluation setting</a>: Marianna Apidianaki and
+Yifan He (Alpage, INRIA &amp; Université Paris 7, France; <st1:place w:st="on"><st1:City
+ w:st="on">Dublin City University</st1:City>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>)…pp.219-226<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Cettolo.pdf">Mining parallel fragments from comparable texts</a>:
+Mauro Cettolo, Marcello Federico, and Nicola Bertoldi (Fondazione Bruno
+Kessler, <st1:place w:st="on"><st1:country-region w:st="on">Italy</st1:country-region></st1:place>)…pp.227-234<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Diep.pdf">Improved Vietnamese-French parallel corpus mining
+using English language</a>: Do Thi Ngoc Diep, Laurent Besacier, and Eric
+Castelli (LIG Laboratory, France; MICA Center, Vietnam)…pp.235-242<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Duh.pdf">Analysis of translation model adaptation in
+statistical machine translation</a>: Kevin Duh, Katsuhito Sudoh, and Hajime
+Tsukada (NTT Communication Science Laboratories, <st1:place w:st="on"><st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>)…pp.243-250<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-El-Kahlout.pdf">The pay-offs of preprocessing for
+German-English statistical machine translation</a>: Ilknur Durgar El-Kahlout
+and Francois Yvon (Univ. Paris-Sud and <st1:place w:st="on"><st1:City w:st="on">LIMSI-CNRS</st1:City>,
+ <st1:country-region w:st="on">France</st1:country-region></st1:place>)…pp.251-258<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Finch.pdf">A Bayesian model of bilingual segmentation for
+transliteration</a>: Andrew Finch and Eiichiro Sumita (NICT, <st1:country-region
+w:st="on"><st1:place w:st="on">Japan</st1:place></st1:country-region>)…pp.259-266<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Gesmundo.pdf">Faster cube pruning</a>: Andrea Gesmundo and
+James Henderson (<st1:place w:st="on"><st1:City w:st="on">University of Geneva</st1:City>,
+ <st1:country-region w:st="on">Switzerland</st1:country-region></st1:place>)…pp.267-274<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Graham.pdf">Factor templates for factored machine translation
+models</a>: Yvette Graham and Josef van Genabith (<st1:place w:st="on"><st1:City
+ w:st="on">Dublin City University</st1:City>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>)…pp.275-282<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Hardmeier.pdf">Modelling pronominal anaphora in statistical
+machine translation</a>: Christian Hardmeier and Marcello Federico (Fondazione
+Bruno Kessler, <st1:country-region w:st="on"><st1:place w:st="on">Italy</st1:place></st1:country-region>)…pp.283-289<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Heger.pdf">A combination of hierarchical systems with forced
+alignments from phrase-based systems</a>: Carmen Heger, Joern Wuebker, David
+Vilar, &amp; Hermann Ney (<st1:place w:st="on"><st1:City w:st="on">RWTH Aachen
+  University</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>)…pp.291-297</span><span
+style='color:red;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Leusch.pdf">Multi-pivot translation by system combination</a>:
+Gregor Leusch, Aurélien Max, Josep Maria Crego, and Hermann Ney (RWTH Aachen
+University, Germany; LIMSI-CNRS, France; Univ. Paris Sud, France) …pp.299-306<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Lim.pdf">Real-time spoken language identification and
+recognition for speech-to-speech translation</a>: Daniel Chung Yong Lim, <st1:Street
+w:st="on"><st1:address w:st="on">Ian Lane</st1:address></st1:Street> and Alex
+Waibel (<st1:City w:st="on">Carnegie Mellon University</st1:City>, <st1:country-region
+w:st="on">USA</st1:country-region>; DSO National Laboratories, <st1:country-region
+w:st="on"><st1:place w:st="on">Singapore</st1:place></st1:country-region>)…pp.307-312<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Ling-2.pdf">Towards a general and extensible phrase-extraction
+algorithm</a>: Wang Ling, Tiago Luís, João Graça, Luísa Coheur and Isabel
+Trancoso (L2F Spoken Systems Lab, INESC-ID Portugal)...pp.313-320<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Mansour-2.pdf">MorphTagger: HMM-based Arabic segmentation for
+statistical machine translation</a>: Saab Mansour (<st1:place w:st="on"><st1:City
+ w:st="on">RWTH Aachen University</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>)…pp.321-327<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Schneider.pdf">Comparing intrinsic and extrinsic evaluation of
+MT output in a dialogue system</a>: Anne H.Schneider, Ielka van der Sluis, and
+Saturnino Luz (Trinity College, Dublin, Ireland)…pp.329-336<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Stein.pdf">Sign language machine translation overkill</a>:
+Daniel Stein, Christoph Schmidt, and Hermann Ney (<st1:place w:st="on"><st1:City
+ w:st="on">RWTH Aachen University</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>)…pp.337-344<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Vilar.pdf">If I only had a parser: poor man’s syntax for
+hierarchical machine translation</a>: David Vilar, Daniel Stein, Stephan Peitz,
+and Hermann Ney (<st1:place w:st="on"><st1:City w:st="on">RWTH Aachen
+  University</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>)…pp.345-352<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='color:black;mso-bidi-font-weight:bold'><a
+href="IWSLT-2010-Yahyaei-2.pdf">Dynamic distortion in a discriminative
+reordering model for statistical machine translation</a>: Sirvan Yahyaei and
+Christoph Monz (<st1:City w:st="on">University of London</st1:City>, <st1:country-region
+w:st="on">UK</st1:country-region>; <st1:place w:st="on"><st1:PlaceType w:st="on">University</st1:PlaceType>
+ of <st1:PlaceName w:st="on">Amsterdam</st1:PlaceName></st1:place>, The
+Netherlands)…pp.353-360<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

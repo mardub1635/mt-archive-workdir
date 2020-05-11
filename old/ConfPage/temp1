@@ -1,0 +1,2415 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<base href="http://www.mt-archive.info/">
+<link rel=File-List
+href="file:///C:\Users\John\Documents\MT-A%20new\transf%20srch\conferences-1_files\filelist.xml">
+<title>Machine translation Archive: conferences</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>John Hutchins</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>John Hutchins</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>79</o:TotalTime>
+  <o:Created>2016-12-31T11:30:00Z</o:Created>
+  <o:LastSaved>2016-12-31T11:30:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>4973</o:Words>
+  <o:Characters>28349</o:Characters>
+  <o:Lines>236</o:Lines>
+  <o:Paragraphs>66</o:Paragraphs>
+  <o:CharactersWithSpaces>33256</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:TargetScreenSize>800x600</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=dataStoreItem
+href="file:///C:\Users\John\Documents\MT-A%20new\transf%20srch\conferences-1_files\item0006.xml"
+target="file:///C:\Users\John\Documents\MT-A%20new\transf%20srch\conferences-1_files\props007.xml">
+<link rel=themeData
+href="file:///C:\Users\John\Documents\MT-A%20new\transf%20srch\conferences-1_files\themedata.thmx">
+<link rel=colorSchemeMapping
+href="file:///C:\Users\John\Documents\MT-A%20new\transf%20srch\conferences-1_files\colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>90</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-GB</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:BreakWrappedTables/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseWord2010TableStyleRules/>
+   <w:DontUseIndentAsNumberingTabStop/>
+   <w:FELineBreak11/>
+   <w:WW11IndentRules/>
+   <w:DontAutofitConstrainedTables/>
+   <w:AutofitLikeWW11/>
+   <w:HangulWidthLikeWW11/>
+   <w:UseNormalStyleForList/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" LatentStyleCount="371">
+  <w:LsdException Locked="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" Priority="99" Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true"
+   Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="99" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520081665 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	mso-style-parent:"";
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	mso-style-parent:"";
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoDocumentMap, li.MsoDocumentMap, div.MsoDocumentMap
+	{mso-style-noshow:yes;
+	mso-style-unhide:no;
+	mso-style-link:"Document Map Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	background:navy;
+	font-size:12.0pt;
+	font-family:"Tahoma",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+p
+	{mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.DocumentMapChar
+	{mso-style-name:"Document Map Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Document Map";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 2.0cm 72.0pt 70.9pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:506333738;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1453076108 17745940 134807577 134807579 134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l0:level1
+	{mso-level-tab-stop:90.0pt;
+	mso-level-number-position:left;
+	margin-left:90.0pt;
+	text-indent:-18.0pt;
+	mso-ansi-font-weight:normal;
+	mso-bidi-font-weight:bold;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:126.0pt;
+	mso-level-number-position:left;
+	margin-left:126.0pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:162.0pt;
+	mso-level-number-position:right;
+	margin-left:162.0pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:198.0pt;
+	mso-level-number-position:left;
+	margin-left:198.0pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:234.0pt;
+	mso-level-number-position:left;
+	margin-left:234.0pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:270.0pt;
+	mso-level-number-position:right;
+	margin-left:270.0pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:306.0pt;
+	mso-level-number-position:left;
+	margin-left:306.0pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:342.0pt;
+	mso-level-number-position:left;
+	margin-left:342.0pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:378.0pt;
+	mso-level-number-position:right;
+	margin-left:378.0pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=WordSection1>
+
+<p align=center style='text-align:center;mso-outline-level:1'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'>Conferences on Machine Translation (MT)<o:p></o:p></span></b></p>
+
+<p align=center style='text-align:center'><span class=GramE><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:18.0pt;
+mso-bidi-font-size:12.0pt'>available</span></b></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:18.0pt;mso-bidi-font-size:12.0pt'> on
+the Machine Translation Archive<o:p></o:p></span></b></p>
+
+<p style='mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US><o:p>&nbsp;</o:p></span></b></p>
+
+<p align=center style='text-align:center'><span lang=EN-US style='color:red'>All
+proceedings of the following conferences and workshops are included in the
+archive.&nbsp;<o:p></o:p></span></p>
+
+<p align=center style='text-align:center'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><span style='mso-spacerun:yes'> </span>[For a
+list of conferences from which papers have been included selectively until 2014
+click <a href="srch/conferences-2.htm">here</a>]<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;mso-outline-level:1'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Pre-1980 conferences</span></b><span lang=EN-US>:</span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1952.<b style='mso-bidi-font-weight:normal'>
+Conference on Mechanical Translation</b>, 17-20 June 1952, Massachusetts
+Institute of Technology. [<a href="50/MIT-1952-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1956.<b style='mso-bidi-font-weight:normal'> International Conference
+on Mechanical Translation</b>, 20 October 1956, Massachusetts Institute of
+Technology. [</span><span lang=EN-US><a href="50/MechTrans-3-2-1956.pdf"><span
+class=GramE><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>selected</span></span><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'> papers</span></a></span><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1957.<b style='mso-bidi-font-weight:normal'> Research in Machine Translation</b>,
+12-13 April 1957, <st1:place w:st="on"><st1:PlaceName w:st="on">Georgetown</st1:PlaceName>
+ <st1:PlaceType w:st="on">University</st1:PlaceType></st1:place>. [<a
+href="50/GURT-1957-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;text-indent:-72.0pt'><b><span lang=EN-US
+style='font-size:10.0pt'>&nbsp;<span style='mso-tab-count:1'>                               </span></span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-weight:bold'>1960.<b> National
+Symposium on Machine Translation</b></span><span lang=EN-US style='font-size:
+10.0pt'>, 2-5 February 1960, <st1:City w:st="on">Los Angeles</st1:City>, <st1:place
+w:st="on"><st1:City w:st="on">Ca.</st1:City>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>;
+ed. <span class=SpellE>H.P.Edmundson</span> (Englewood Cliff, NJ:
+Prentice-Hall, 1961) [<a href="50/UCLA-1960-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1960. <b style='mso-bidi-font-weight:normal'>Federally sponsored
+machine translation workers</b>, 18-22 July 1960, <st1:place w:st="on"><st1:City
+ w:st="on">Princeton</st1:City>, <st1:State w:st="on">New Jersey</st1:State></st1:place>.
+[<a href="50/Princeton-1960.pdf">Summary of the proceedings</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1961.<b style='mso-bidi-font-weight:normal'> International Conference on
+Machine Translation and Applied Language Analysis</b>, 5-8 September 1961,
+National Physical Laboratory, <span class=SpellE>Teddington</span>, <st1:place
+w:st="on"><st1:City w:st="on">Middlesex</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>.
+2 vols. (London: HMSO, 1962). [<a href="50/NPL-1961-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1962. <b style='mso-bidi-font-weight:normal'>Automatic translation of
+languages</b>, NATO Summer School, <st1:City w:st="on"><st1:place w:st="on">Venice</st1:place></st1:City>,
+July 1962. (Oxford: <span class=SpellE>Pergamon</span> Press, 1966). [<a
+href="50/NATO-1962-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1963.<b style='mso-bidi-font-weight:normal'> Annual meeting of the
+Association for Machine Translation and Computational Linguistics</b>, 25-26
+August 1963, <st1:place w:st="on"><st1:City w:st="on">Denver</st1:City>, <st1:State
+ w:st="on">Colorado</st1:State></st1:place>. [<a href="50/AMTCL-1963-TOC.htm">Table
+of contents</a>, <a href="50/MT-1963-AMTCL.pdf">abstracts</a> published in <i
+style='mso-bidi-font-style:normal'>Mechanical Translation</i>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1971. <b style='mso-bidi-font-weight:normal'>Feasibility Study on Fully
+Automatic High Quality Translation</b>, University of Texas, 1970-1971. [<a
+href="70/LRC-1971-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1976.<b style='mso-bidi-font-weight:normal'> FBIS [Foreign Broadcast
+Information Service] Seminar on Machine Translation</b>, 8-9 March 1976, <st1:place
+w:st="on"><st1:City w:st="on">Rosslyn</st1:City>, <st1:State w:st="on">Virginia</st1:State></st1:place>.
+[<a href="70/FBIS-1976-TOC.htm">Table of contents</a>]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>MT Summit</span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'> conferences (of the
+<b style='mso-bidi-font-weight:normal'>International Association for Machine
+Translation</b>)<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>I.<span style='mso-spacerun:yes'>  </span>1987, September 17-19, <st1:place
+w:st="on"><st1:City w:st="on">Hakone</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.
+<a href="70/MTS-1987-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>II. 1989, August 16-18, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE>München</span></st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+</span><span lang=EN-US><a href="70/MTS-1989-TOC.htm"><span style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>III. 1991, July 1-4, <st1:place w:st="on"><st1:City w:st="on">Washington</st1:City>,
+ <st1:State w:st="on">DC</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+<a href="90/MTS-1991-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>IV. 1993, July 19-22, <st1:place w:st="on"><st1:City w:st="on">Kobe</st1:City>,
+ <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.
+“International cooperation for global communication” <a
+href="90/MTS-1993-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>V. 1995, July 10-13, <st1:place w:st="on"><st1:country-region
+ w:st="on">Luxembourg</st1:country-region></st1:place>. <a
+href="90/MTS-1995-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>VI. 1997, October 29 – November 1, <st1:place w:st="on"><st1:City
+ w:st="on">San Diego</st1:City>, <st1:State w:st="on">California</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. “Machine translation: past,
+present, future” <a href="90/MTS-1997-TOC.htm">Table of contents</a>. Also <a
+href="90/AMTA-1997-TOC.htm">AMTA/SIG-IL workshop on interlinguas</a>.<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>VII. 1999, September 13-17, <st1:country-region w:st="on"><st1:place
+ w:st="on">Singapore</st1:place></st1:country-region>. “MT in the great
+translation era”.<span style='mso-spacerun:yes'>  </span><a
+href="90/MTS-1999-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>VIII. 2001, September 18-22, <st1:place w:st="on"><st1:City w:st="on">Santiago
+  de <span class=SpellE>Compostela</span></st1:City>, <st1:country-region
+ w:st="on">Spain</st1:country-region></st1:place>. “Machine translation in the
+information age” <a href="00/MTS-2001-TOC.htm">Table of contents: papers
+presented at main conference and workshops</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>IX. 2003, September 23-27, <st1:place w:st="on"><st1:City w:st="on">New
+  Orleans</st1:City>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+</span><span lang=EN-US><a href="00/MTS-2003-TOC.htm"><span style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Table of contents: papers presented at main
+conference and workshops</span></a></span><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>X, 2005, September 13-15, <st1:place w:st="on"><st1:City w:st="on">Phuket</st1:City>,
+ <st1:country-region w:st="on">Thailand</st1:country-region></st1:place>. <a
+href="05/MTS-2005-TOC.htm">Table of contents: papers presented at main
+conference and workshops</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>XI, 2007, September 10-14, <st1:place w:st="on"><st1:City w:st="on">Copenhagen</st1:City>,
+ <st1:country-region w:st="on">Denmark</st1:country-region></st1:place>. <a
+href="05/MTS-2007-TOC.htm">Table of contents: papers presented at main
+conference and workshops</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>XII. 2009, August 26-30, <st1:place w:st="on"><st1:City w:st="on">Ottawa</st1:City>,
+ <st1:country-region w:st="on">Canada</st1:country-region></st1:place>. <a
+href="05/MTS-2009-TOC.htm">Table of contents: main conference and workshops</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>XIII. 2011, September 19-23, <st1:place w:st="on"><st1:City w:st="on">Xiamen</st1:City>,
+ <st1:country-region w:st="on">China</st1:country-region></st1:place>. <a
+href="10/MTS-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>XIV. 2013, September 2-6, Nice, France. <a href="10/MTS-2013-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>XV. 2015, October 30 – November 3, Miami, Florida, USA. <a
+href="http://www.mt-archive.info/15/MTS-2015-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Conferences of the <b style='mso-bidi-font-weight:
+normal'>Association for Machine Translation in the Americas</b> (</span><span
+lang=EN-US><a href="http://www.amtaweb.org/"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>AMTA</span></a></span><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>)<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1st, 1994, October 5-8, <st1:place w:st="on"><st1:City w:st="on">Columbia</st1:City>,
+ <st1:State w:st="on">Maryland</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+“Technology partnerships for crossing the language barrier” </span><span
+lang=EN-US><a href="90/AMTA-1994-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2nd, 1996, October 2-5, <st1:place w:st="on"><st1:City w:st="on">Montreal</st1:City>,
+ <st1:State w:st="on">Quebec</st1:State>, <st1:country-region w:st="on">Canada</st1:country-region></st1:place>.
+“Expanding MT horizons” </span><span lang=EN-US><a href="90/AMTA-1996-TOC.htm"><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>3rd, 1998, October 28-31, <st1:place w:st="on"><st1:City w:st="on">Langhorne</st1:City>,
+ <st1:State w:st="on">Pennsylvania</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+“Machine translation and the information soup” </span><span lang=EN-US><a
+href="90/AMTA-1998-TOC.htm"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>4th, 2000, October 10-14, <st1:place w:st="on"><st1:City w:st="on">Cuernavaca</st1:City>,
+ <st1:country-region w:st="on">Mexico</st1:country-region></st1:place>.
+“Envisioning machine translation in the information future” <a
+href="00/AMTA-2000-TOC.htm">Table of contents</a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>5th, 2002, October 8-12, <st1:place w:st="on"><st1:City w:st="on">Tiburon</st1:City>,
+ <st1:State w:st="on">California</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+“Machine translation: from research to real users” </span><span lang=EN-US><a
+href="00/AMTA-2002-TOC.htm"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>6th, 2004, September 28 - October 2, <st1:place w:st="on"><st1:City
+ w:st="on">Washington</st1:City>, <st1:State w:st="on">DC</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. “Machine translation: from
+real users to research” </span><span lang=EN-US><a href="00/AMTA-2004-TOC.htm"><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>7th, 2006, August 8-12, <st1:place w:st="on"><st1:City w:st="on">Cambridge</st1:City>,
+ <st1:State w:st="on">Massachusetts</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+“Visions for the future of machine translation” <a href="05/AMTA-2006-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'><span style='mso-spacerun:yes'>         </span>2007, April 26, <st1:place
+w:st="on"><st1:City w:st="on">Rochester</st1:City>, <st1:State w:st="on">New York</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. [Workshop
+at NAACL-HLT 2007] “Syntax and structure in statistical translation” <a
+href="05/NAACL-HLT-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>8th, 2008, October 21-25, <st1:place w:st="on"><st1:City
+ w:st="on">Waikiki</st1:City>, <st1:State w:st="on">Hawai’i</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. “MT at work” <a
+href="05/AMTA-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>9th, 2010, October 31-November 4, <st1:place
+w:st="on"><st1:City w:st="on">Denver</st1:City>, <st1:State w:st="on">Colorado</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. <a
+href="10/AMTA-2010-TOC.htm">Table of contents</a> <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>10th, 2012, October 28-November 1, <st1:place
+w:st="on"><st1:City w:st="on">San Diego</st1:City>, <st1:State w:st="on">California</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. <a
+href="10/AMTA-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>11th, 2014, October 22-26, <st1:place w:st="on"><st1:City
+ w:st="on">Vancouver</st1:City>, <st1:State w:st="on">BC</st1:State>, <st1:country-region
+ w:st="on">Canada</st1:country-region></st1:place>. <a
+href="10/AMTA-2014-TOC.htm">Table of contents</a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Workshops and conferences of the <b style='mso-bidi-font-weight:normal'>European
+Association for Machine Translation</b> (</span><span lang=EN-US><a
+href="http://www.eamt.org/"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>EAMT</span></a></span><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>)<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1993, April 26-28, <st1:place w:st="on"><st1:City w:st="on">Heidelberg</st1:City>,
+ <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+“Machine translation and the lexicon” (Berlin: Springer, 1995) <a
+href="90/EAMT-1993-abstracts.htm">Abstracts</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1994, September 14-16, <st1:place w:st="on"><st1:City w:st="on">Hildesheim</st1:City>,
+ <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+“Machine translation and translation theory” (Berlin: Mouton de <span
+class=SpellE>Gruyter</span>, 1997) <a href="90/EAMT-1994-TOC.htm">Contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1996, August 29-30, <span class=SpellE>Technische</span> <span
+class=SpellE>Universität</span>, <st1:place w:st="on"><st1:City w:st="on">Vienna</st1:City>,
+ <st1:country-region w:st="on">Austria</st1:country-region></st1:place>. {<span
+class=GramE>held</span> in conjunction with TKE'96} <a
+href="90/EAMT-1996-WS.pdf">Complete proceedings</a> [PDF, 701KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1997, May 21-22, Center for <span class=SpellE>Sprogteknologi</span>, <st1:place
+w:st="on"><st1:City w:st="on">Copenhagen</st1:City>, <st1:country-region w:st="on">Denmark</st1:country-region></st1:place>.
+“Language technology in your organization?” <a href="90/EAMT-1997-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1998, April 2-3, World Health Organization, <st1:place w:st="on"><st1:City
+ w:st="on">Geneva</st1:City>, <st1:country-region w:st="on">Switzerland</st1:country-region></st1:place>.
+“Translation technology: integration in the workflow environment” <a
+href="90/EAMT-1998-WS.pdf">Complete proceedings</a> [PDF, 665KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1999, April 22-23, <st1:place w:st="on"><st1:City w:st="on">Prague</st1:City>,
+ <st1:country-region w:st="on">Czech Republic</st1:country-region></st1:place>.
+“EU and the new languages” </span><span lang=EN-US><a
+href="90/EAMT-1999-TOC.htm"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Table of contents</span></a></span><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>. [</span><span lang=EN-US><a
+href="90/EAMT-1999-WS.pdf"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Abstracts</span></a></span><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'> only, PDF, 234KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2000, May 11-12, <st1:place w:st="on"><st1:City w:st="on">Ljubljana</st1:City>,
+ <st1:country-region w:st="on">Slovenia</st1:country-region></st1:place>.
+“Harvesting existing resources” <a href="00/EAMT-2000-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2002, November 14-15, UMIST, <st1:place w:st="on"><st1:City w:st="on">Manchester</st1:City>,
+ <st1:country-region w:st="on">UK</st1:country-region></st1:place>. “Teaching
+machine translation” <a href="00/EAMT-2002-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2003, April 13, <st1:place w:st="on"><st1:City w:st="on">Budapest</st1:City>,
+ <st1:country-region w:st="on">Hungary</st1:country-region></st1:place>.
+[Workshop at EACL-03.] “Improving MT through other language technology tools:
+resources and tools for building MT” <a href="00/EAMT-2003-TOC.htm">Table of
+contents</a> <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2003, May 15-17, <st1:place w:st="on"><st1:City w:st="on">Dublin City
+  University</st1:City>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>.
+“Controlled language translation”: Joint conference combining the 7th
+international Workshop of the European Association for Machine Translation and
+the 4th Controlled Language Applications Workshop. <a href="00/CLT-2003-TOC.htm">Table
+of contents</a>&nbsp;<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2004, April 26-27, <st1:place w:st="on"><st1:country-region w:st="on">Malta</st1:country-region></st1:place>.
+“Broadening horizons of machine translation and its applications” </span><span
+lang=EN-US><a href="00/EAMT-2004-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2005, May 30-31, <st1:place w:st="on"><st1:City w:st="on">Budapest</st1:City>,
+ <st1:country-region w:st="on">Hungary</st1:country-region></st1:place>.
+“Practical applications of machine translation”. <a href="05/EAMT-2005-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2006, June 19-20, <st1:place w:st="on"><st1:City
+ w:st="on">Oslo</st1:City>, <st1:country-region w:st="on">Norway</st1:country-region></st1:place>.
+<a href="05/EAMT-2006-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2008, September 22-23, <st1:City w:st="on">Hamburg</st1:City>, <st1:country-region
+w:st="on">Germany</st1:country-region>, “<st1:place w:st="on"><st1:City w:st="on">Hybrid</st1:City>
+ <st1:State w:st="on">MT</st1:State></st1:place> methods in practice”. <a
+href="05/EAMT-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2009, May 14-15, <st1:place w:st="on"><st1:City w:st="on">Barcelona</st1:City>,
+ <st1:country-region w:st="on">Spain</st1:country-region></st1:place>. <a
+href="05/EAMT-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2010, May 27-28, <st1:place w:st="on"><st1:City w:st="on">Saint <span
+  class=SpellE>Raphaël</span></st1:City>, <st1:country-region w:st="on">France</st1:country-region></st1:place>.
+<a href="10/EAMT-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2011, May 30-31, <st1:place w:st="on"><st1:City w:st="on">Leuven</st1:City>,
+ <st1:country-region w:st="on">Belgium</st1:country-region></st1:place>. <a
+href="10/EAMT-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2012, May 28-30, <st1:place w:st="on"><st1:City w:st="on">Trento</st1:City>,
+ <st1:country-region w:st="on">Italy</st1:country-region></st1:place>. <a
+href="10/EAMT-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2014, June 16-18, <st1:place w:st="on"><st1:City w:st="on">Dubrovnik</st1:City>,
+ <st1:country-region w:st="on">Croatia</st1:country-region></st1:place>. <a
+href="10/EAMT-2014-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2015, May 11-13, Antalya, Turkey. <a
+href="http://www.mt-archive.info/15/EAMT-2015-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2016, May 30 – June 1, Riga, Latvia. <a
+href="http://www.mt-archive.info/15/EAMT-2016-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>British Computer Society</span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>: conferences<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1984, February 13-15, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE>Cranfield</span> University</st1:City>, <st1:country-region
+ w:st="on">UK</st1:country-region></st1:place>. <i style='mso-bidi-font-style:
+normal'>International Conference on Methodology and Techniques of Machine
+Translation</i>. <a href="70/BCS-1984-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>1994, November 12-14, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE>Cranfield</span> University</st1:City>, <st1:country-region
+ w:st="on">UK</st1:country-region></st1:place>.<i style='mso-bidi-font-style:
+normal'><span style='color:red'><span style='mso-spacerun:yes'>  </span></span>Machine
+Translation: Ten Years On</i>. Second international conference ..<span
+style='mso-spacerun:yes'>  </span><a href="90/BCS-1994-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2000, November 20-22, <st1:place w:st="on"><st1:City w:st="on">University
+  of Exeter</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>.<i
+style='mso-bidi-font-style:normal'><span style='mso-spacerun:yes'> 
+</span>MT2000</i>: <i style='mso-bidi-font-style:normal'>Machine Translation
+and Multilingual Applications in the New <span class=SpellE>Millenium</span></i>.
+International Conference...<span style='mso-spacerun:yes'>  </span><a
+href="00/BCS-2000-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>2006, October 23, <st1:place w:st="on"><st1:City w:st="on">London</st1:City>,
+ <st1:country-region w:st="on">UK</st1:country-region></st1:place>.<i
+style='mso-bidi-font-style:normal'> The Challenge of Arabic for NLP/MT. </i>International
+Conference... <a href="05/BCS-2006-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>International Workshop on<b style='mso-bidi-font-weight:
+normal'> Controlled Language Applications (CLAW)<o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:99.0pt;
+margin-bottom:.0001pt;text-indent:-27.0pt;mso-outline-level:1'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>4th, 2003, May
+15-17, <st1:place w:st="on"><st1:City w:st="on">Dublin City University</st1:City>,
+ <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>.
+“Controlled language translation”: Joint conference combining the 7th
+international Workshop of the European Association for Machine Translation and
+the<span style='mso-spacerun:yes'>      </span>4th Controlled Language
+Applications Workshop. <a href="00/CLT-2003-TOC.htm">Table of contents</a><b
+style='mso-bidi-font-weight:normal'><span style='mso-tab-count:1'>          </span><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>5th, 2006, August 12, <st1:City w:st="on">Cambridge</st1:City>,
+<st1:State w:st="on">Mass.</st1:State> [as part of the 7th conference of the
+Association for Machine Translation in the <st1:place w:st="on"><st1:country-region
+ w:st="on">Americas</st1:country-region></st1:place>, AMTA-2006] <a
+href="05/CLAW-2006-TOC.htm">Contents of workshop</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>International
+Workshop on Example-Based Machine Translation<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:90.0pt;
+margin-bottom:.0001pt;text-indent:-18.0pt;mso-outline-level:1;mso-list:l0 level1 lfo2;
+tab-stops:list 90.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>2001, September 18,
+Santiago de <span class=SpellE>Compostela</span>, Spain [at <i>MT Summit VIII</i>].
+<a href="00/MTS-2001-EBMT-WS.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:90.0pt;
+margin-bottom:.0001pt;text-indent:-18.0pt;mso-outline-level:1;mso-list:l0 level1 lfo2;
+tab-stops:list 90.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>2005, September 16,
+Phuket, <span class=SpellE>Tailand</span> [at<i> MT <st1:City w:st="on"><st1:place
+ w:st="on">Summit</st1:place></st1:City> X</i>]. <a
+href="05/MTS-2005-EBMT-WS.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:90.0pt;
+margin-bottom:.0001pt;text-indent:-18.0pt;mso-outline-level:1;mso-list:l0 level1 lfo2;
+tab-stops:list 90.0pt'><![if !supportLists]><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'><span
+style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>2009, November 12-13, <st1:place
+w:st="on"><st1:City w:st="on">Dublin</st1:City>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>.
+<a href="05/EBMT-2009-TOC.htm">Table of contents</a></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>International
+Workshop on Free/Open-Source Rule-Based Machine Translation<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1st<span style='mso-bidi-font-weight:
+bold'>, 2009, November 2-3, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE>Alacant</span></st1:City>, <st1:country-region w:st="on">Spain</st1:country-region></st1:place>.
+<a href="05/FreeRBMT-2009-TOC.htm">Table of contents</a><o:p></o:p></span></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>2nd,
+2011, January 20-21, <st1:place w:st="on"><st1:City w:st="on">Barcelona</st1:City>,
+ <st1:country-region w:st="on">Spain</st1:country-region></st1:place>. <a
+href="10/FreeRBMT-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>3rd,
+2012, June 13-15, <st1:place w:st="on"><st1:City w:st="on">Gothenburg</st1:City>,
+ <st1:country-region w:st="on">Sweden</st1:country-region></st1:place>. <a
+href="10/FreeRBMT-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>International
+Workshop on Spoken Language Translation (IWSLT)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2004, September 30 – October 1, <st1:place
+w:st="on"><st1:City w:st="on">Kyoto</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.
+[Held as <i style='mso-bidi-font-style:normal'>ICSLP Satellite Workshop</i> <i
+style='mso-bidi-font-style:normal'>of</i> <span class=SpellE><i
+style='mso-bidi-font-style:normal'>Interspeech</i></span><i style='mso-bidi-font-style:
+normal'> 2004</i>] <a href="00/IWSLT-2004-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2005, October 24-25, <st1:place w:st="on"><st1:City
+ w:st="on">Pittsburgh</st1:City>, <st1:State w:st="on">PA</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. <a href="05/IWSLT-2005-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2006, November 27-28, <st1:place w:st="on"><st1:City
+ w:st="on">Kyoto</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.
+<a href="05/IWSLT-2006-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2007, October 15-16, <st1:place w:st="on"><st1:City
+ w:st="on">Trento</st1:City>, <st1:country-region w:st="on">Italy</st1:country-region></st1:place>.
+<a href="05/IWSLT-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2008, October 20-21, Waikiki, Hawai’i, USA. <a
+href="05/IWSLT-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2009, December 1-2, <st1:place w:st="on"><st1:City
+ w:st="on">Tokyo</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.
+<a href="05/IWSLT-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2010, December 2-3, <st1:place w:st="on"><st1:City
+ w:st="on">Paris</st1:City>, <st1:country-region w:st="on">France</st1:country-region></st1:place>.
+<a href="10/IWSLT-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2011, December 8-9, <st1:place w:st="on"><st1:City
+ w:st="on">San Francisco</st1:City>, <st1:State w:st="on">California</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. <a
+href="10/IWSLT-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2012, December 6-7, <st1:place w:st="on">Hong
+ Kong</st1:place>.<span style='mso-spacerun:yes'>  </span><a
+href="10/IWSLT-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2013, December 5-6, <st1:place w:st="on"><st1:City
+ w:st="on">Heidelberg</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+<a href="10/IWSLT-2013-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2014, December 4-5, <st1:place w:st="on"><st1:City
+ w:st="on">Lake Tahoe</st1:City>, <st1:State w:st="on">California</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. <a href="10/IWSLT-2014-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2015. December 3-4, Da Nang, Vietnam. <a
+href="http://www.mt-archive.info/15/IWSLT-2015-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Machine
+Translation <st1:place w:st="on">Marathon</st1:place><o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1st, 2007, April 16-20, Edinburgh, UK. <a
+href="05/MTMarathon-2007-TOC.htm">Table of contents</a> <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2nd, 2008, May 12-17, <st1:place w:st="on"><st1:City
+ w:st="on">Berlin</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+<a href="05/MTMarathon-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>3rd, 2009, January 26-30, <st1:place w:st="on"><st1:City
+ w:st="on">Prague</st1:City>, <st1:country-region w:st="on">Czech Republic</st1:country-region></st1:place>.
+<a href="05/MTMarathon-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>4th, 2010, January 25-30, <st1:place w:st="on"><st1:City
+ w:st="on">Dublin</st1:City>, <st1:country-region w:st="on">Ireland</st1:country-region></st1:place>.
+<a href="10/MTMarathon-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>5th, 2010, September 13-18, <st1:place w:st="on"><st1:City
+ w:st="on">Le Mans</st1:City>, <st1:country-region w:st="on">France</st1:country-region></st1:place>.
+<a href="10/MTMarathon-5-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>6th, 2011, September 5-10, <st1:place w:st="on"><st1:City
+ w:st="on">Trento</st1:City>, <st1:country-region w:st="on">Italy</st1:country-region></st1:place>.
+<a href="10/MTMarathon-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>7th, 2012, September 3-8, <st1:place w:st="on"><st1:City
+ w:st="on">Edinburgh</st1:City>, <st1:country-region w:st="on">UK</st1:country-region></st1:place>.
+<a href="10/MTMarathon-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>META-FORUM<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><span
+style='mso-tab-count:2'>                                </span></span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>1st, 2010,
+November 17-18, <st1:place w:st="on"><st1:City w:st="on">Brussels</st1:City>, <st1:country-region
+ w:st="on">Belgium</st1:country-region></st1:place>. <a
+href="10/META-FORUM-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><span style='mso-tab-count:2'>                                </span>2nd,
+2011, June 27-28, <st1:place w:st="on"><st1:City w:st="on">Budapest</st1:City>,
+ <st1:country-region w:st="on">Hungary</st1:country-region></st1:place>. <a
+href="10/META-FORUM-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><span style='mso-tab-count:2'>                                </span>3rd,
+2012, June 19-20, <st1:place w:st="on"><st1:City w:st="on">Brussels</st1:City>,
+ <st1:country-region w:st="on">Belgium</st1:country-region></st1:place>. <a
+href="10/META-FORUM-2012-summary.htm">Summary of proceedings</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Syntax and
+Structure in Statistical Translation (SSST)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>[1st], 2007, April 26, held at NAACL-HLT, 2007, <i style='mso-bidi-font-style:
+normal'>workshop on “Syntax and structure in statistical translation”</i> <a
+href="05/SSST-2007-TOC.htm">Table of contents</a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2nd, 2008, June 20, Columbus, Ohio, held at
+ACL 2008 HLT, <i style='mso-bidi-font-style:normal'>second</i> <i
+style='mso-bidi-font-style:normal'>workshop on “Syntax and structure in
+statistical translation” (SSST-2) </i><a href="05/SSST-2008-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>3rd, 2009, June 5, Boulder, <span
+class=SpellE>Colorada</span>, held at NAACL-HLT 2009, <i style='mso-bidi-font-style:
+normal'>third workshop on Syntax and structure in statistical translation
+(SSST-3)</i>. <a href="05/SSST-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>4th, 2010, August 28, <st1:place w:st="on"><st1:City
+ w:st="on">Beijing</st1:City>, <st1:country-region w:st="on">China</st1:country-region></st1:place>,
+held at <span class=SpellE>Coling</span> 2010, <i style='mso-bidi-font-style:
+normal'>fourth workshop on Syntax and structure in statistical translation
+(SSST-4)</i>. <a href="10/SSST-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>5th, 2011, June 23, Portland, Oregon, USA,
+held at ACL-HLT 2011, <i style='mso-bidi-font-style:normal'>fifth workshop on
+Syntax and structure in statistical translation (SSST-5)</i>. <a
+href="10/SSST-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>6th, 2012, July 12-13, <st1:place w:st="on"><st1:City
+ w:st="on"><span class=SpellE>Jeju</span></st1:City>, <st1:country-region
+ w:st="on">Korea</st1:country-region></st1:place>, held at ACL 2012, <i
+style='mso-bidi-font-style:normal'>sixth workshop on Syntax and structure in
+statistical translation (SSST-6). </i><a href="10/SSST-2012-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>7th, 2013, June 13, Atlanta, Georgia, held at
+NAACL-HLT 2013 , <i style='mso-bidi-font-style:normal'>seventh workshop on
+Syntax and structure in statistical translation (SSST-7). </i><a
+href="10/SSST-2013-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>8th, 2014, October 25, <st1:place w:st="on"><st1:City
+ w:st="on">Doha</st1:City>, <st1:country-region w:st="on">Qatar</st1:country-region></st1:place>,
+<i style='mso-bidi-font-style:normal'>eighth workshop on Syntax and structure
+in statistical translation (SSST-8).</i> <a href="10/SSST-2014-TOC.htm">Table
+of contents</a><i style='mso-bidi-font-style:normal'><o:p></o:p></i></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Theoretical and
+Methodological Issues in Machine Translation (TMI)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1st, TMI-85, August 14-16, 1985, <st1:place
+w:st="on"><st1:City w:st="on">Hamilton</st1:City>, <st1:State w:st="on">NY</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. <a
+href="70/TMI-1985-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2nd, TMI-88, June 12-14,
+1988, Pittsburgh, USA. <a href="70/TMI-1988-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>3rd, TMI-90, June 11-13, 1990, <st1:PlaceType
+w:st="on">University</st1:PlaceType> of <st1:PlaceName w:st="on">Texas</st1:PlaceName>,
+<st1:place w:st="on"><st1:City w:st="on">Austin</st1:City>, <st1:State w:st="on">Texas</st1:State>,
+ <st1:country-region w:st="on">USA</st1:country-region></st1:place>. </span><span
+lang=EN-US><a href="90/TMI-1990-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>4th,<span style='color:red'> </span>TMI-92, June 25-27, 1992, <st1:place
+w:st="on"><st1:City w:st="on">Montréal</st1:City>, <st1:country-region w:st="on">Canada</st1:country-region></st1:place>.
+“Empiricist versus rationalist methods in MT” <a href="90/TMI-1992-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>5th, TMI-93, July 14-16,
+1993, <st1:place w:st="on"><st1:City w:st="on">Kyoto</st1:City>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>. “MT in the next generation” <a
+href="90/TMI-1993-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>6th: TMI-95, July 5-7, 1995, <span
+class=SpellE>Katholieke</span> <span class=SpellE>Universiteit</span>, <st1:place
+w:st="on"><st1:City w:st="on">Leuven</st1:City>, <st1:country-region w:st="on">Belgium</st1:country-region></st1:place>
+<a href="90/TMI-1995-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>7th: TMI-97, July 23-25, 1997, <st1:PlaceName w:st="on">St John’s</st1:PlaceName>
+<st1:PlaceType w:st="on">College</st1:PlaceType>, <st1:place w:st="on"><st1:City
+ w:st="on">Santa Fe</st1:City>, <st1:State w:st="on">New Mexico</st1:State> <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. <a href="90/TMI-1997-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>8th: TMI-99, August 23-25,
+1999, <st1:PlaceType w:st="on">University</st1:PlaceType> <st1:PlaceType w:st="on">College</st1:PlaceType>,
+<st1:place w:st="on"><st1:City w:st="on">Chester</st1:City>, <st1:country-region
+ w:st="on">England</st1:country-region></st1:place>.<span
+style='mso-spacerun:yes'>  </span><a href="90/TMI-1999-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>9th, TMI-2002, March 13-17, 2002, <st1:place
+w:st="on"><st1:City w:st="on"><span class=SpellE>Keihanna</span></st1:City>, <st1:country-region
+ w:st="on">Japan</st1:country-region></st1:place>. </span><span lang=EN-US><a
+href="00/TMI-2002-TOC.htm"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>10th, TMI-2004, October 4-6,
+2004, <st1:place w:st="on"><st1:City w:st="on">Baltimore</st1:City>, <st1:State
+ w:st="on">Maryland</st1:State>, <st1:country-region w:st="on">USA</st1:country-region></st1:place>.
+</span><span lang=EN-US><a href="00/TMI-2004-TOC.htm"><span style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>11th, TMI-2007, September 7-9, 2007, <st1:place
+w:st="on"><st1:City w:st="on"><span class=SpellE>Skövde</span></st1:City>, <st1:country-region
+ w:st="on">Sweden</st1:country-region></st1:place>. <a
+href="05/TMI-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Translating and
+the Computer: </span></b><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>conferences organized by <span class=SpellE>Aslib</span> 1978-2013, and
+by <span class=SpellE>AsLing</span> 2014<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>[1] 1978, November 14, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer”. <a href="70/Aslib-1978-TOC.htm">Table of
+contents</a> <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>[2] 1980, November 20, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Machine aids for translators”.<span style='mso-spacerun:yes'>  </span><a
+href="70/Aslib-1980-TOC.htm">Table of contents</a> [published in: <span
+class=SpellE><i style='mso-bidi-font-style:normal'>Aslib</i></span><i
+style='mso-bidi-font-style:normal'> Proceedings</i> 33 (7/8), July/August
+1981.]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>[3] 1981, November 5-6, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Practical experience of machine translation”. <a href="70/Aslib-1981-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>4, 1982, November 11-12, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Term banks for tomorrow’s world: Translating and the Computer 4”. <a
+href="70/Aslib-1982-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>5, 1983, November 10-11, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Tools for the trade: Translating and the Computer 5”. <a
+href="70/Aslib-1983-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>6. 1984, November 20-21, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translation and communication”, ed. Catriona <span class=SpellE>Picken</span>.
+(London: <span class=SpellE>Aslib</span>, 1985) <a href="70/Aslib-1984-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>7. 1985, November 14-15, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 7”, <span class=SpellE>ed.Catriona</span> <span
+class=SpellE>Picken</span>. (London: <span class=SpellE>Aslib</span>, 1986) <a
+href="70/Aslib-1985-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>8. 1986, November 13-14, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 8: a profession on the move”, <span class=SpellE>ed.Catriona</span>
+<span class=SpellE>Picken</span> (London: <span class=SpellE>Aslib</span>,
+1987) <a href="70/Aslib-1986-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>9. 1987, November 12-13, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 9: potential and practice”, <span class=SpellE>ed.Catriona</span>
+<span class=SpellE>Picken</span> (London: <span class=SpellE>Aslib</span>,
+1988) <a href="70/Aslib-1987-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>10. 1988, November 10-11, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 10: the translation environment 10 years on”, <span
+class=SpellE>ed.Pamela</span> <span class=SpellE>Mayorcas</span> (London: <span
+class=SpellE>Aslib</span>, 1990) <a href="70/Aslib-1988-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>11. 1989, November 16-17, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 11: preparing for the next decade”, ed. Catriona <span
+class=SpellE>Picken</span> (London: <span class=SpellE>Aslib</span>, 1990<span
+class=GramE>)<span style='mso-spacerun:yes'>  </span></span><a
+href="70/Aslib-1989-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>12. 1990, November 8-9, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 12: applying technology to the translation
+process”, ed. Catriona <span class=SpellE>Picken</span> (London: <span
+class=SpellE>Aslib</span>, 1991<span class=GramE>)<span
+style='mso-spacerun:yes'>  </span></span><a href="90/Aslib-1990-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>13. 1991, November 28-29, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 13: the theory and practice of machine
+translation – a marriage of convenience?” (London: <span class=SpellE>Aslib</span>,
+1992).<span style='mso-spacerun:yes'>  </span><a href="90/Aslib-1991-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>14. 1992, November 10-11, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 14: quality standards and the implementation of
+technology in translation” (London: <span class=SpellE>Aslib</span>, 1992) <a
+href="90/Aslib-1992-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>15. 1993, November 18-19, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Machine translation today: Translating and the computer 15” (London: <span
+class=SpellE>Aslib</span>, 1993<span class=GramE>)<span
+style='mso-spacerun:yes'>  </span></span><a href="90/Aslib-1993-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>16. 1994, November 10-11, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 16” (London: <span class=SpellE>Aslib</span>,
+1994) <a href="90/Aslib-1994-TOC.htm">Table of contents</a> <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>17. 1995, November 9-10,<span style='mso-spacerun:yes'>  </span>London.
+“Translating and the computer 17” (London: <span class=SpellE>Aslib</span>,
+1995) <a href="90/Aslib-1995-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>18. 1996, November 14-15, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 18” (London: <span class=SpellE>Aslib</span>,
+1996) <a href="90/Aslib-1996-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>19. 1997, November 13-14, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the computer 19” (London: <span class=SpellE>Aslib</span>,
+1997) <a href="90/Aslib-1997-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>20. 1998, November 12-13, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 20” (London: <span class=SpellE>Aslib</span>,
+1998) <a href="90/Aslib-1998-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>21. 1999, November 10-11, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 21” (London: <span class=SpellE>Aslib</span>,
+1999) <a href="90/Aslib-1999-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>22. 2000, November 16-17, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 22” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2000) <a href="00/Aslib-2000-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>23. 2001, November 29-30, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 23” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2001) <a href="00/Aslib-2001-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>24. 2002, November 21-22, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 24” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2002) <a href="00/Aslib-2002-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>25. 2003, November 20-21, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 25” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2003) <a href="00/Aslib-2003-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>26. 2004, November 18-19, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 26” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2004) <a href="00/Aslib-2004-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>27. 2005, November 24-25, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 27” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2005) <a href="05/Aslib-2005-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>28. 2006, November 16-17, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 28” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2006) <a href="05/Aslib-2006-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>29. 2007, November 29-30, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 29” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2007) <a href="05/Aslib-2007-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>30. 2008, November 27-28, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 30” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2008) <a href="05/Aslib-2008-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>31. 2009, November 19-20, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 31” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2009) <a href="05/Aslib-2009-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>32. 2010, November 18-19, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 32” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2010) <a href="10/Aslib-2010-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>33. 2011, November 17-18, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 33” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2011) <a href="10/Aslib-2011-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>34. 2012, November 29-30, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 34” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2012) <a href="10/Aslib-2012-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>35. 2013, November 28-29, <st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>.
+“Translating and the Computer 35” (<st1:place w:st="on"><st1:City w:st="on">London</st1:City></st1:place>:
+<span class=SpellE>Aslib</span>, 2013) <a href="10/Aslib-2013-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>36. 2014, November 27-28, <st1:City w:st="on"><st1:place w:st="on">London</st1:place></st1:City>.
+“Translating and the Computer 36” (<span class=SpellE>AsLing</span>, 2014) <a
+href="10/Asling-2014-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>37. 2015, November 26-27, London. “Translating and the Computer 37” (<span
+class=SpellE>AsLing</span>, 2015) <a
+href="http://www.mt-archive.info/15/Asling-2015-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>38. 2016, November 17-18, London. “Translating and the Computer 38” (<span
+class=SpellE>AsLing</span>, 2016) <a
+href="http://www.mt-archive.info/15/Asling-2016-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span class=SpellE><b
+style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Translingual</span></b></span><b style='mso-bidi-font-weight:
+normal'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>
+Europe<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2009, May 13-14, <st1:place
+w:st="on"><st1:City w:st="on"><span class=SpellE>Prague</span></st1:City><span
+ class=SpellE>,<st1:country-region w:st="on">Czech Republic</st1:country-region></span></st1:place>.
+<a href="05/Translingual-Europe-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><span style='mso-tab-count:2'>                                </span>2010,
+June 7, <st1:place w:st="on"><st1:City w:st="on">Berlin</st1:City>, <st1:country-region
+ w:st="on">Germany</st1:country-region></st1:place>. <a
+href="10/Translingual-Europe-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Workshops on
+Statistical Machine Translation (WMT)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>[1st], 2006, June 8-9, held at: HLT-NAACL 2006, <i style='mso-bidi-font-style:
+normal'>Workshop on Statistical machine translation</i> <a
+href="05/WMT-2006-TOC.htm">Table of contents</a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2nd, 2007, June 23, held at: ACL 2007, <i
+style='mso-bidi-font-style:normal'>second Workshop on Statistical machine
+translation</i>. <a href="05/WMT-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>3rd, 2008, June 19, held at: ACL 2008 HLT, <i
+style='mso-bidi-font-style:normal'>third Workshop on Statistical machine
+translation</i>. <a href="05/WMT-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>4th, 2009, March 30-31, held at: EACL 2009, <i
+style='mso-bidi-font-style:normal'>fourth Workshop on Statistical machine
+translation</i>. <a href="05/WMT-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>5th, 2010, July 15-16, held at: ACL 2010, <i
+style='mso-bidi-font-style:normal'>Joint fifth Workshop on Statistical machine
+translation and <span class=SpellE>MetricsMATR</span></i>. <a
+href="10/WMT-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>6th, 2011, July 30-31, held at EMNLP 2011, <i
+style='mso-bidi-font-style:normal'>sixth Workshop on Statistical machine
+translation</i>. <a href="10/WMT-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>7th, 2012, June 7-8, <st1:place w:st="on"><st1:City
+ w:st="on">Montréal</st1:City>, <st1:country-region w:st="on">Canada</st1:country-region></st1:place>,
+<i style='mso-bidi-font-style:normal'>seventh Workshop on Statistical machine
+translation.</i> <a href="10/WMT-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>8th, 2013, August 8-9, <st1:place w:st="on"><st1:City
+ w:st="on">Sofia</st1:City>, <st1:country-region w:st="on">Bulgaria</st1:country-region></st1:place>,
+<i style='mso-bidi-font-style:normal'>eighth Workshop on Statistical machine
+translation.</i> <a href="10/WMT-2013-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>9th, 2014, June 26-27, <st1:place w:st="on"><st1:City
+ w:st="on">Baltimore</st1:City>, <st1:State w:st="on">Maryland</st1:State></st1:place>,
+<i style='mso-bidi-font-style:normal'>ninth Workshop on Statistical machine
+translation</i>. <a href="10/WMT-2014-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:72.0pt;margin-bottom:.0001pt;text-align:center;mso-outline-level:
+1'><b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:72.0pt;margin-bottom:.0001pt;text-align:center;mso-outline-level:
+1'><b style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Other conferences and workshops<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1985. <b style='mso-bidi-font-weight:normal'>International
+Workshop on Computer Aided Translation</b>, 1985 March 16-17, <st1:place w:st="on"><st1:City
+ w:st="on">Riyadh</st1:City></st1:place>. <a href="70/Wahab-1985-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1986. <b style='mso-bidi-font-weight:normal'>World
+<span class=SpellE>Systran</span> Conference</b>, 1986, February 11-14, <st1:place
+w:st="on"><st1:country-region w:st="on">Luxembourg</st1:country-region></st1:place>.
+<a href="70/T&amp;T-1986-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1986.<b style='mso-bidi-font-weight:normal'>
+IAI-MT86, </b>1986, August 20-22, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE>Dudweiler</span></st1:City>, <st1:country-region w:st="on">West
+  Germany</st1:country-region></st1:place> <a href="70/IAI-1986-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;tab-stops:9.0pt 27.0pt'><span style='font-size:10.0pt;
+mso-ansi-language:EN-GB'>1988.<b style='mso-bidi-font-weight:normal'> New
+Directions in Machine Translation</b>, 1988, August 18-19, <st1:place w:st="on"><st1:City
+ w:st="on">Budapest</st1:City>, <st1:country-region w:st="on">Hungary</st1:country-region></st1:place>.
+<a href="70/DLT-1988-Maxwell-TOC.htm">Table of contents</a>.<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1989. <b style='mso-bidi-font-weight:normal'>International
+Forum for Translation Technology</b> “Harmonizing Human Beings and Computers in
+Translation, 1989 April 26-28, <span class=SpellE>Oiso</span> Prince Hotel. <a
+href="70/IFTT-1989-TOC.htm">Program</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1990. <b style='mso-bidi-font-weight:normal'>Workshop
+on Machine Translation</b>, 1990, July 2-3, UMIST, <st1:place w:st="on"><st1:country-region
+ w:st="on">UK</st1:country-region></st1:place>. <a href="90/UMIST-1990-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1991.<b style='mso-bidi-font-weight:normal'>
+Evaluators’ Forum</b>, 1991, April 21-24, <st1:place w:st="on"><st1:City w:st="on">Les
+  <span class=SpellE>Rasses</span></st1:City>, <st1:country-region w:st="on">Switzerland</st1:country-region></st1:place>
+<a href="90/ISSCO-1991-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1992. <b style='mso-bidi-font-weight:normal'>International
+Workshop on Fundamental Research for the Future Generation of Natural Language
+Processing</b>, 1992, July 30-31, <st1:place w:st="on"><st1:City w:st="on">Manchester</st1:City>,
+ <st1:country-region w:st="on">UK</st1:country-region></st1:place>. <a
+href="90/FGNLP-1992-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1992.<b style='mso-bidi-font-weight:normal'>
+MT Evaluation</b>, 1992, November 2-3, <st1:place w:st="on"><st1:City w:st="on">San
+  Diego</st1:City>, <st1:State w:st="on">California</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. <a href="90/AMTA-1992-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1994. <b style='mso-bidi-font-weight:normal'>ARPA
+Workshop on Machine Translation</b>, 1994, March 17-18, <st1:place w:st="on"><st1:City
+ w:st="on">Vienna</st1:City>, <st1:State w:st="on">Virginia</st1:State>, <st1:country-region
+ w:st="on">USA</st1:country-region></st1:place>. <a href="90/ARPA-1994-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>1997. <b style='mso-bidi-font-weight:normal'>Spoken
+Language Translation</b>, 1997, July 11, <st1:place w:st="on"><st1:City w:st="on">Madrid</st1:City>,
+ <st1:country-region w:st="on">Spain</st1:country-region></st1:place>. <a
+href="90/SLT-1997-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2001.<b style='mso-bidi-font-weight:normal'>
+MT <span class=SpellE>Eval</span> Workshop</b><span style='mso-bidi-font-weight:
+bold'>, 2001 April 19-24, ISSCO, <st1:place w:st="on"><st1:City w:st="on">Geneva</st1:City>,
+ <st1:country-region w:st="on">Switzerland</st1:country-region></st1:place>. <a
+href="00/MTEval-2001-TOC.htm">Table of contents</a></span><b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2007.<b style='mso-bidi-font-weight:normal'>
+METIS Workshop, </b>2007, January 11, <st1:place w:st="on"><st1:City w:st="on">Leuven</st1:City>,
+ <st1:country-region w:st="on">Belgium</st1:country-region></st1:place> “New
+approaches to machine translation” <a href="05/METIS-2007-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2008.<b style='mso-bidi-font-weight:normal'>
+MATMT workshop</b>, 2008, February 14, <span class=SpellE>Donostia</span>-San Sebastian
+“Mixing approaches to machine translation” <a href="05/MATMT-2008-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>2009.<b style='mso-bidi-font-weight:normal'>
+Statistical Multilingual Analysis for Retrieval and Translation</b>, 2009, May
+13, <st1:place w:st="on"><st1:City w:st="on">Barcelona</st1:City>, <st1:country-region
+ w:st="on">Spain</st1:country-region></st1:place>. <a
+href="05/SMART-2009-TOC.htm">Table of contents</a><b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;mso-bidi-font-weight:bold'>2010.<b> Joint
+EM+/CNGL workshop</b>, 2010, November 4, <st1:City w:st="on">Denver</st1:City>,
+<st1:State w:st="on">Colorado</st1:State>, <st1:country-region w:st="on">USA</st1:country-region>
+“<st1:place w:st="on"><st1:City w:st="on">Bringing</st1:City> <st1:State w:st="on">MT</st1:State></st1:place>
+to the user: research on integrating MT in the translation industry” <a
+href="10/JEC-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt'>2011. <b style='mso-bidi-font-weight:normal'>Machine Translation and
+Morphologically Rich Languages</b>, 2011, January 23-27, <st1:place w:st="on"><st1:City
+ w:st="on">Haifa</st1:City>, <st1:country-region w:st="on">Israel</st1:country-region></st1:place>.
+<a href="10/MTMRL-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt'>2011. <b style='mso-bidi-font-weight:normal'>International Workshop on
+Using Linguistic Information for Hybrid Machine Translation</b>, 2011, November
+18-19, <st1:place w:st="on"><st1:City w:st="on">Barcelona</st1:City>, <st1:country-region
+ w:st="on">Spain</st1:country-region></st1:place>. <a
+href="10/LIHMT-2011-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt'>2012. <span class=SpellE><b style='mso-bidi-font-weight:normal'>Crosslingual</b></span><b
+style='mso-bidi-font-weight:normal'> Language Technology in service of an
+integrated multilingual Europe</b>, 2012, May 4-5, <st1:place w:st="on"><st1:City
+ w:st="on">Hamburg</st1:City>, <st1:country-region w:st="on">Germany</st1:country-region></st1:place>.
+<a href="10/CLLT-2012-abs.pdf">Abstracts</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p align=center style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:72.0pt;margin-bottom:.0001pt;text-align:center;mso-outline-level:
+1'><b style='mso-bidi-font-weight:normal'><span lang=EN-US>Workshops on MT held
+during other conferences<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Association for
+Computational Linguistics (ACL) </span></b><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>conferences<b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>ACL-EACL 1997, July 11, workshop on <i>“Spoken Language Translation”</i>.
+<a href="90/SLT-1997-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>ACL-EACL, 2001, July 7, <span style='mso-bidi-font-style:italic'>workshop
+</span><i style='mso-bidi-font-style:normal'>&quot;Data-driven machine
+translation&quot;</i> </span><span lang=EN-US><a href="00/ACL-EACL-2001-TOC.htm"><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL, 2002, <span
+style='mso-bidi-font-style:italic'>workshop on</span><i style='mso-bidi-font-style:
+normal'> &quot;Speech-to-speech translation&quot;</i> </span><span lang=EN-US><a
+href="00/ACL-2002-TOC.htm"><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>ACL, 2005, June 29-30, <span style='mso-bidi-font-style:italic'>workshop
+on</span> “<i style='mso-bidi-font-style:normal'>Building and Using Parallel
+Texts – Data-driven machine translation and beyond” </i><a
+href="05/ACL-2005-WS-PT-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>ACL, 2007, June 23, <span style='mso-bidi-font-style:
+italic'>second workshop on</span><i style='mso-bidi-font-style:normal'>
+“Statistical machine translation”</i>. <a href="05/WMT-2007-TOC.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL 2008 HLT, <span
+style='mso-bidi-font-style:italic'>third workshop on</span><i style='mso-bidi-font-style:
+normal'> “Statistical machine translation”</i>. <a href="05/WMT-2008-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>ACL 2008 HLT, <span style='mso-bidi-font-style:
+italic'>second workshop on</span><i style='mso-bidi-font-style:normal'> “Syntax
+and structure in statistical translation”</i> <a href="05/SSST-2008-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL 2009, <span
+style='mso-bidi-font-style:italic'>workshop on</span><i style='mso-bidi-font-style:
+normal'> &quot;Named Entities: Shared task on transliteration&quot;</i> <a
+href="05/NEWS-2009-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL 2010, July 15-16, fifth
+workshop on <i style='mso-bidi-font-style:normal'>“Statistical machine
+translation”</i>. <a href="10/WMT-2010-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL 2013, August 8, sixth
+workshop on “<i style='mso-bidi-font-style:normal'>Building and using
+comparable corpora</i>”. <a href="10/BUCC-2013-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>North American
+Chapter of the Association for Computational Linguistics (NAACL) </span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>conferences<b
+style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>ANLP-NAACL, 2000 <span style='mso-bidi-font-style:italic'>workshop May 4
+</span><i style='mso-bidi-font-style:normal'>&quot;Embedded machine translation
+systems&quot;</i> </span><span lang=EN-US><a href="00/ANLP-NAACL-2000-TOC.htm"><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>NAACL-ANLP, 2000 <i style='mso-bidi-font-style:normal'>workshop May</i>
+<i style='mso-bidi-font-style:normal'>“Applied interlinguas: practical
+applications of <span class=SpellE>interlingual</span> approaches to NLP”</i> <a
+href="00/NAACL-ANLP-2000-TOC.htm">Table of contents</a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2003 <span style='mso-bidi-font-style:italic'>workshop May
+31</span><i style='mso-bidi-font-style:normal'> &quot;Building and using
+parallel texts: data driven machine translation and beyond&quot;</i> </span><span
+lang=EN-US><a href="00/HLT-NAACL-2003-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2006 <span style='mso-bidi-font-style:italic'>workshop June
+9</span><i style='mso-bidi-font-style:normal'> “Medical speech translation”</i>
+<a href="05/HLT-NAACL-2006-WS-MST-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2006 <span style='mso-bidi-font-style:italic'>workshop June
+8-9</span><i style='mso-bidi-font-style:normal'> “Statistical machine
+translation”</i> <a href="05/WMT-2006-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>NAACL-HLT, 2007, <span style='mso-bidi-font-style:italic'>workshop
+April 26</span><i style='mso-bidi-font-style:normal'> “Syntax and structure in
+statistical translation”</i> <a href="05/SSST-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>NAACL-HLT 2009, <span style='mso-bidi-font-style:
+italic'>workshop June 5 </span><i style='mso-bidi-font-style:normal'>Syntax and
+structure in statistical translation (SSST-3)</i>. <a
+href="05/SSST-2009-TOC.htm">Table of contents</a><i style='mso-bidi-font-style:
+normal'><o:p></o:p></i></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Computational Linguistics</span></b><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'> (<span
+class=SpellE><b style='mso-bidi-font-weight:normal'>Coling</b></span>)
+conferences. <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span class=SpellE><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Coling</span></span><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'> 2002, September 1: <span
+style='mso-bidi-font-style:italic'>workshop on</span><i style='mso-bidi-font-style:
+normal'> &quot;Machine translation in <st1:place w:st="on">Asia</st1:place>&quot;</i>
+</span><span lang=EN-US><a href="00/Coling-2002-TOC.htm"><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span class=SpellE><span lang=EN-US style='font-size:
+10.0pt'>Coling</span></span><span lang=EN-US style='font-size:10.0pt'> 2012,
+December: workshop on “<i style='mso-bidi-font-style:normal'>Reordering for
+statistical machine translation</i>” <a href="10/Coling-2012-WS-RSMT.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span class=SpellE><span lang=EN-US style='font-size:
+10.0pt'>Coling</span></span><span lang=EN-US style='font-size:10.0pt'> 2012,
+December: second workshop on “<i style='mso-bidi-font-style:normal'>Applying
+machine learning techniques to optimize the division of <span class=SpellE>labour</span>
+in hybrid MT (ML4HMT)</i>” <a href="10/Coling-2012-WS-ML4HMT.htm">Table of
+contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>European
+Association for Computational Linguistics (EACL)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt'><span style='mso-tab-count:2'>                                </span>13th,
+2012 April 23-24, <st1:place w:st="on"><st1:City w:st="on">Avignon</st1:City>, <st1:country-region
+ w:st="on">France</st1:country-region></st1:place>: <i style='mso-bidi-font-style:
+normal'><span style='color:black'>ESIRMT-<span class=SpellE>HyTra</span>
+Workshop</span></i><span style='color:black'> <a href="10/EACL-2012-WS-TOC.htm">Table
+of contents</a></span><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>European Summer
+School on Logic, Linguistics and Information (ESSLLI)<o:p></o:p></span></b></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>10th, 1998 August 24-28, <span class=SpellE>Saarbrücken</span>:
+<i style='mso-bidi-font-style:normal'>Workshop on machine translation</i></span><span
+lang=EN-US> <a href="90/ESSLLI-1998-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Human Language
+Technology</span></b><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'> (<b style='mso-bidi-font-weight:normal'>HLT</b>) conferences. <o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2003 <span style='mso-bidi-font-style:italic'>workshop May
+31</span><i style='mso-bidi-font-style:normal'> &quot;Building and using
+parallel texts: data driven machine translation and beyond&quot;</i> </span><span
+lang=EN-US><a href="00/HLT-NAACL-2003-TOC.htm"><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>Table of contents</span></a></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2006 <span style='mso-bidi-font-style:italic'>workshop June
+9</span><i style='mso-bidi-font-style:normal'> “Medical speech translation”</i>
+<a href="05/HLT-NAACL-2006-WS-MST-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>HLT-NAACL, 2006 <span style='mso-bidi-font-style:italic'>workshop June
+8-9</span><i style='mso-bidi-font-style:normal'> “Statistical machine translation”</i>
+<a href="05/WMT-2006-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>NAACL-HLT, 2007, <span style='mso-bidi-font-style:italic'>workshop
+April 26</span><i style='mso-bidi-font-style:normal'> “Syntax and structure in
+statistical translation”</i> <a href="05/SSST-2007-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:36.0pt;mso-outline-level:1'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>ACL 2008 HLT, third workshop
+<i style='mso-bidi-font-style:normal'>“Statistical machine translation”</i>. <a
+href="05/WMT-2008-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>ACL 2008 HLT, <span style='mso-bidi-font-style:
+italic'>second workshop </span><i style='mso-bidi-font-style:normal'>“Syntax
+and structure in statistical translation”</i> <a href="05/SSST-2008-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt;mso-outline-level:1'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>NAACL-HLT 2009, <span style='mso-bidi-font-style:
+italic'>third workshop June 5 </span><i style='mso-bidi-font-style:normal'>Syntax
+and structure in statistical translation (SSST-3)</i>. <a
+href="05/SSST-2009-TOC.htm">Table of contents</a><i style='mso-bidi-font-style:
+normal'><o:p></o:p></i></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt;mso-outline-level:1'><b style='mso-bidi-font-weight:normal'><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Language
+Resources and Evaluation (LREC) </span></b><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>conferences<b style='mso-bidi-font-weight:
+normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2000, <i style='mso-bidi-font-style:normal'>workshop May 29
+“Evaluation of machine translation”</i> <a href="00/LREC-2000-TOC.htm">Table of
+contents</a><span style='color:red'> <o:p></o:p></span></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2002, <i style='mso-bidi-font-style:normal'>workshop May 27
+“Machine Translation Evaluation: human evaluators meet automated metrics”</i> <a
+href="00/LREC-2002-WS-MTEval.pdf">Complete proceedings</a> [PDF, 249KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2002, <i style='mso-bidi-font-style:normal'>workshop May 27
+“First international workshop on UNL, other interlinguas and their applications<span
+class=GramE>”<span style='font-style:normal'><span style='mso-spacerun:yes'> 
+</span></span></span></i><a href="00/LREC-2002-WS-UNL.pdf">Complete proceedings</a>
+[PDF, 923KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2004, <i style='mso-bidi-font-style:normal'>workshop May 25 “The
+utility of parallel and comparable corpora” </i><a
+href="00/LREC-2004-WS-Corpora.pdf">Complete proceedings</a> [PDF, 2226KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2006 May 23, <i style='mso-bidi-font-style:normal'>5th SALTMIL
+Workshop on Minority Languages: “Strategies for developing machine translation
+for minority languages”</i> <a href="05/LREC-2006-SALTMIL-WS.pdf">Complete
+proceedings</a> [PDF, 5391KB]<o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2012 May 26 “<i style='mso-bidi-font-style:normal'>The fifth
+workshop on building and using comparable corpora: language resources for
+machine translation in less-resourced languages and domains</i>” <a
+href="10/BUCC-2012-TOC.htm">Table of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>LREC, 2014 May 27 <i style='mso-bidi-font-style:normal'>“Seventh workshop
+on building and using comparable corpora”</i> <a href="10/BUCC-2014-TOC.htm">Table
+of contents</a><o:p></o:p></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:0cm;
+margin-bottom:.0001pt'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Recent Advances in Natural
+Language Processing (RANLP) </span></b><span lang=EN-US style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'>conferences<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+
+<p style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;margin-left:72.0pt;
+margin-bottom:.0001pt'><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'><span style='mso-spacerun:yes'> </span>RANLP, 2005: <i
+style='mso-bidi-font-style:normal'>International Workshop: Modern approaches in
+translation technologies</i>, <st1:place w:st="on"><st1:City w:st="on">Borovets</st1:City>,
+ <st1:country-region w:st="on">Bulgaria</st1:country-region></st1:place>, 24
+September 2005. <a href="05/RANLP-2005-TOC.htm">Table of contents</a></span></p>
+
+</div>
+
+</body>
+
+</html>

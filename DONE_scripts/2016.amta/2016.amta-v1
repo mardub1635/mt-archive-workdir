@@ -1,0 +1,30 @@
+Instance Selection for Online Automatic Post-Editing in a multi-domain scenario
+Rajen Chatterjee, Mihael Arcan, Matteo Negri and Marco Turchi ;1
+Machine Translation Quality and Post-Editor Productivity
+Marina Sanchez-Torron and Philipp Koehn ;16
+Fuzzy-match repair using black-box machine translation systems: what can be expected?
+John Ortega, Felipe Sánchez-Martínez and Mikel Forcada;27
+Fast, Scalable Phrase-Based SMT Decoding
+Hieu Hoang, Nikolay Bogoychev, Lane Schwartz and Marcin Junczys-Dowmunt; 40
+An Effective Diverse Decoding Scheme for Robust Synonymous Sentence Translation
+Youngki Park, Hwidong Na, Hodong Lee, Jihyun Lee and Inchul Song;53
+Ranking suggestions for black-box interactive translation prediction systems with multilayer perceptrons
+Daniel Torregrosa, Juan Antonio Pérez-Ortiz and Mikel Forcada;65
+Multi-domain Adaptation for Statistical Machine Translation Based on Feature Augmentation
+Kenji Imamura and Eiichiro Sumita;79
+Bilingual Methods for Adaptive Training Data Selection for Machine Translation
+Boxing Chen, Roland Kuhn, George Foster, Colin Cherry and Fei Huang;93
+Neural Interactive Translation Prediction
+Rebecca Knowles and Philipp Koehn;107
+Guided Alignment Training for Topic-Aware Neural Machine Translation
+Wenhu Chen, Evgeny Matusov, Shahram Khadivi and Jan-Thorsten Peter;121
+Improving Neural Machine Translation on resource-limited pairs using auxiliary data of a third language
+Ander Martinez and Yuji Matsumoto;135
+Which Words Matter in Defining Phrase Reordering Behavior in Statistical Machine Translation?
+Hamidreza Ghader and Christof Monz;149
+Translation of Unknown Words in Low Resource Languages
+Biman Gujral, Huda Khayrallah and Philipp Koehn;163
+Automatic Construction of Morphologically Motivated Translation Models for Highly Inflected, Low-Resource Languages
+John Hewitt, Matt Post and David Yarowsky;177
+Investigating the Impact of Various Partial Diacritization Schemes on Arabic-English Statistical Machine Translation
+Sawsan Alqahtani, Mahmoud Ghoneim and Mona Diab;191

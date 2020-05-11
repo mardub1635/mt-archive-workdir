@@ -1,0 +1,518 @@
+Conference Title,Year,Month,Day,place,has TOC?,Link
+Pre-1980 conferences,['1980'],N/A,N/A,,no,
+Conference on Mechanical Translation,1952,N/A,N/A,,yes,http://www.mt-archive.info/50/MIT-1952-TOC.htm
+International Conference on Mechanical Translation,1956,Oct,20,,no,http://www.mt-archive.info/50/MechTrans-3-2-1956.pdf
+Research in Machine Translation,1957,Apr,12,"
+ ",yes,http://www.mt-archive.info/50/GURT-1957-TOC.htm
+National Symposium on Machine Translation,1961,Feb,2,"Los Angeles USA 
+ NJ 
+ ",yes,http://www.mt-archive.info/50/UCLA-1960-TOC.htm
+Federally sponsored machine translation workers,1960,Jul,18,"
+ New Jersey 
+ Summary ",no,http://www.mt-archive.info/50/Princeton-1960.pdf
+International Conference on Machine Translation and Applied Language Analysis,1962,Sep,5,"Teddington Middlesex UK 
+ London ",yes,http://www.mt-archive.info/50/NPL-1961-TOC.htm
+Automatic translation of languages,1966,N/A,N/A,"
+ Venice 
+ ",yes,http://www.mt-archive.info/50/NATO-1962-TOC.htm
+Annual meeting of the Association for Machine Translation and Computational Linguistics,1963,Mar,25,"Denver Colorado 
+ ",yes,http://www.mt-archive.info/50/AMTCL-1963-TOC.htm
+Feasibility Study on Fully Automatic High Quality Translation,1971,N/A,N/A,,yes,http://www.mt-archive.info/70/LRC-1971-TOC.htm
+FBIS [Foreign Broadcast Information Service] Seminar on Machine Translation,1976,Mar,8,"Virginia 
+ ",yes,http://www.mt-archive.info/70/FBIS-1976-TOC.htm
+MT Summit International Association for Machine Translation,N/A,N/A,N/A,,no,
+MT Summit International Association for Machine Translation,1987,Mar,17,"Hakone Japan 
+ ",yes,http://www.mt-archive.info/70/MTS-1987-TOC.htm
+MT Summit International Association for Machine Translation,1989,Aug,16,"München Germany 
+ ",yes,http://www.mt-archive.info/70/MTS-1989-TOC.htm
+MT Summit International Association for Machine Translation,1991,N/A,N/A,"Washington 
+ DC USA 
+ ",yes,http://www.mt-archive.info/90/MTS-1991-TOC.htm
+MT Summit International Association for Machine Translation,1993,Jul,19,"Kobe Japan 
+ ",yes,http://www.mt-archive.info/90/MTS-1993-TOC.htm
+MT Summit International Association for Machine Translation,1995,Jul,10,Luxembourg ,yes,http://www.mt-archive.info/90/MTS-1995-TOC.htm
+MT Summit International Association for Machine Translation,1997,Oct,29,"San Diego California USA 
+ ",yes,http://www.mt-archive.info/90/MTS-1997-TOC.htm
+MT Summit International Association for Machine Translation,1999,Mar,13,"Singapore 
+ ",yes,http://www.mt-archive.info/90/MTS-1999-TOC.htm
+MT Summit International Association for Machine Translation,2001,Sep,18,"Spain 
+ 
+ ",yes,http://www.mt-archive.info/00/MTS-2001-TOC.htm
+MT Summit International Association for Machine Translation,2003,Sep,23,"New
+  Orleans USA 
+ 
+ ",yes,http://www.mt-archive.info/00/MTS-2003-TOC.htm
+MT Summit International Association for Machine Translation,2005,Sep,13,"Phuket 
+ Thailand 
+ ",yes,http://www.mt-archive.info/05/MTS-2005-TOC.htm
+MT Summit International Association for Machine Translation,2007,N/A,N/A,"XI 
+ Denmark 
+ ",yes,http://www.mt-archive.info/05/MTS-2007-TOC.htm
+MT Summit International Association for Machine Translation,2009,Aug,26,"Ottawa 
+ Canada ",yes,http://www.mt-archive.info/05/MTS-2009-TOC.htm
+MT Summit International Association for Machine Translation,2011,Sep,19,Xiamen ,yes,http://www.mt-archive.info/10/MTS-2011-TOC.htm
+MT Summit International Association for Machine Translation,2013,N/A,N/A,"Nice France 
+ ",yes,http://www.mt-archive.info/10/MTS-2013-TOC.htm
+MT Summit International Association for Machine Translation,['20'],N/A,N/A,XV Miami Florida USA ,yes,http://www.mt-archive.info//15/MTS-2015-TOC.htm
+Association for Machine Translation in the Americas,N/A,N/A,N/A,,no,http://www.mt-archive.info//
+Association for Machine Translation in the Americas,['1994'],N/A,N/A,"Columbia 
+ Maryland USA 
+ ",yes,http://www.mt-archive.info/90/AMTA-1994-TOC.htm
+Association for Machine Translation in the Americas,['1996'],N/A,N/A,"Montreal Quebec Canada 
+ ",yes,http://www.mt-archive.info/90/AMTA-1996-TOC.htm
+Association for Machine Translation in the Americas,['1998'],N/A,N/A,"
+ Pennsylvania USA 
+ ",yes,http://www.mt-archive.info/90/AMTA-1998-TOC.htm
+Association for Machine Translation in the Americas,2000,Oct,10,"Cuernavaca 
+ Mexico 
+ Envisioning ",yes,http://www.mt-archive.info/00/AMTA-2000-TOC.htm
+Association for Machine Translation in the Americas,2002,Oct,8,"Tiburon 
+ California USA 
+ ",yes,http://www.mt-archive.info/00/AMTA-2002-TOC.htm
+Association for Machine Translation in the Americas,2004,N/A,N/A,"Washington, DC, USA 
+ ",yes,http://www.mt-archive.info/00/AMTA-2004-TOC.htm
+Association for Machine Translation in the Americas,['20'],Aug,8,"Cambridge 
+ Massachusetts USA 
+ ",yes,http://www.mt-archive.info/05/AMTA-2006-TOC.htm
+Association for Machine Translation in the Americas,2007,Apr,26,"Rochester New York 
+ USA Syntax ",yes,http://www.mt-archive.info/05/NAACL-HLT-2007-TOC.htm
+Association for Machine Translation in the Americas,['20'],N/A,N/A,Waikiki Hawai’i USA ,yes,http://www.mt-archive.info/05/AMTA-2008-TOC.htm
+Association for Machine Translation in the Americas,2010,N/A,N/A,"Denver Colorado 
+ USA ",yes,http://www.mt-archive.info/10/AMTA-2010-TOC.htm
+Association for Machine Translation in the Americas,2012,N/A,N/A,"San Diego California 
+ USA ",yes,http://www.mt-archive.info/10/AMTA-2012-TOC.htm
+Association for Machine Translation in the Americas,2014,Oct,22,Vancouver BC Canada ,yes,http://www.mt-archive.info/10/AMTA-2014-TOC.htm
+European Association for Machine Translation,N/A,N/A,N/A,,no,http://www.mt-archive.info//
+European Association for Machine Translation,1995,N/A,N/A,"
+ Germany 
+ Berlin Springer ",no,http://www.mt-archive.info/90/EAMT-1993-abstracts.htm
+European Association for Machine Translation,1997,N/A,N/A,"
+ Germany 
+ Berlin ",no,http://www.mt-archive.info/90/EAMT-1994-TOC.htm
+European Association for Machine Translation,1996,Aug,29,Vienna Austria ,no,http://www.mt-archive.info/90/EAMT-1996-WS.pdf
+European Association for Machine Translation,1997,May,21,"Sprogteknologi Denmark 
+ ",yes,http://www.mt-archive.info/90/EAMT-1997-TOC.htm
+European Association for Machine Translation,['1998'],N/A,N/A,"Geneva Switzerland 
+ ",no,http://www.mt-archive.info/90/EAMT-1998-WS.pdf
+European Association for Machine Translation,['1999'],N/A,N/A,"Prague 
+ Czech Republic 
+ ",yes,http://www.mt-archive.info/90/EAMT-1999-TOC.htm
+European Association for Machine Translation,['20'],May,11,"Ljubljana Slovenia 
+ 
+ ",yes,http://www.mt-archive.info/00/EAMT-2000-TOC.htm
+European Association for Machine Translation,2002,Nov,14,"Manchester 
+ UK 
+ ",yes,http://www.mt-archive.info/00/EAMT-2002-TOC.htm
+European Association for Machine Translation,['20'],Apr,13,"Budapest 
+ Hungary 
+ 
+ ",yes,http://www.mt-archive.info/00/EAMT-2003-TOC.htm
+European Association for Machine Translation,2003,May,15,"Ireland 
+ 
+ 
+ ",yes,http://www.mt-archive.info/00/CLT-2003-TOC.htm
+European Association for Machine Translation,['20'],Apr,26,"Malta 
+ ",yes,http://www.mt-archive.info/00/EAMT-2004-TOC.htm
+European Association for Machine Translation,2005,May,30,"Budapest 
+ Hungary 
+ ",yes,http://www.mt-archive.info/05/EAMT-2005-TOC.htm
+European Association for Machine Translation,"['20', '20']",N/A,N/A,"Oslo Norway 
+ ",yes,http://www.mt-archive.info/05/EAMT-2006-TOC.htm
+European Association for Machine Translation,['20'],N/A,N/A,Hamburg Germany ,yes,http://www.mt-archive.info/05/EAMT-2008-TOC.htm
+European Association for Machine Translation,2009,May,14,Barcelona Spain ,yes,http://www.mt-archive.info/05/EAMT-2009-TOC.htm
+European Association for Machine Translation,2010,May,27,"France 
+ ",yes,http://www.mt-archive.info/10/EAMT-2010-TOC.htm
+European Association for Machine Translation,['20'],N/A,N/A,Leuven Belgium ,yes,http://www.mt-archive.info/10/EAMT-2011-TOC.htm
+European Association for Machine Translation,['20'],N/A,N/A,Trento Italy ,yes,http://www.mt-archive.info/10/EAMT-2012-TOC.htm
+European Association for Machine Translation,2014,Jun,16,Croatia ,yes,http://www.mt-archive.info/10/EAMT-2014-TOC.htm
+European Association for Machine Translation,2015,May,11,Antalya Turkey ,yes,http://www.mt-archive.info//15/EAMT-2015-TOC.htm
+European Association for Machine Translation,2016,N/A,N/A,Riga Latvia ,yes,http://www.mt-archive.info//15/EAMT-2016-TOC.htm
+British Computer Society,N/A,N/A,N/A,,no,
+British Computer Society,['1984'],N/A,N/A,UK ,yes,http://www.mt-archive.info/70/BCS-1984-TOC.htm
+British Computer Society,2010,Nov,12,"UK 
+ ",yes,http://www.mt-archive.info/90/BCS-1994-TOC.htm
+British Computer Society,"['20', '20', '20']",N/A,N/A,UK ,yes,http://www.mt-archive.info/00/BCS-2000-TOC.htm
+British Computer Society,['20'],Oct,23,"London 
+ UK ",yes,http://www.mt-archive.info/05/BCS-2006-TOC.htm
+Controlled Language Applications (CLAW),N/A,N/A,N/A,,no,
+Controlled Language Applications (CLAW),2003,Mar,15,"
+ Ireland 
+ 
+ ",yes,http://www.mt-archive.info/00/CLT-2003-TOC.htm
+Controlled Language Applications (CLAW),2006,Aug,12,"Cambridge 
+ Mass. AMTA-2006 ",no,http://www.mt-archive.info/05/CLAW-2006-TOC.htm
+International Workshop on Example-Based Machine Translation,N/A,N/A,N/A,,no,
+International Workshop on Example-Based Machine Translation,['20'],Sep,18,Spain ,yes,http://www.mt-archive.info/00/MTS-2001-EBMT-WS.htm
+International Workshop on Example-Based Machine Translation,2005,Sep,16,"
+ Phuket Tailand ",yes,http://www.mt-archive.info/05/MTS-2005-EBMT-WS.htm
+International Workshop on Example-Based Machine Translation,2009,Nov,12,"Dublin Ireland 
+ ",yes,http://www.mt-archive.info/05/EBMT-2009-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,N/A,N/A,N/A,,no,
+International Workshop on Free/Open-Source Rule-Based Machine Translation,['20'],N/A,N/A,"Spain 
+ ",yes,http://www.mt-archive.info/05/FreeRBMT-2009-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,"['20', '20']",N/A,N/A,"
+ Barcelona Spain ",yes,http://www.mt-archive.info/10/FreeRBMT-2011-TOC.htm
+International Workshop on Free/Open-Source Rule-Based Machine Translation,2012,Jun,13,"3rd 
+ Gothenburg Sweden ",yes,http://www.mt-archive.info/10/FreeRBMT-2012-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),N/A,N/A,N/A,,no,
+International Workshop on Spoken Language Translation (IWSLT),"['20', '20']",N/A,N/A,"Kyoto Japan 
+ ",yes,http://www.mt-archive.info/00/IWSLT-2004-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2005,Oct,24,Pittsburgh PA USA ,yes,http://www.mt-archive.info/05/IWSLT-2005-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'],N/A,N/A,"Kyoto Japan 
+ ",yes,http://www.mt-archive.info/05/IWSLT-2006-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'],N/A,N/A,"Trento Italy 
+ ",yes,http://www.mt-archive.info/05/IWSLT-2007-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),"['20', '20']",N/A,N/A,Waikiki Hawai’i USA ,yes,http://www.mt-archive.info/05/IWSLT-2008-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2009,N/A,N/A,"Tokyo Japan 
+ ",yes,http://www.mt-archive.info/05/IWSLT-2009-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2010,N/A,N/A,"Paris France 
+ ",yes,http://www.mt-archive.info/10/IWSLT-2010-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'],N/A,N/A,"San Francisco California 
+ USA ",yes,http://www.mt-archive.info/10/IWSLT-2011-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),['20'],N/A,N/A,"Hong
+ Kong ",yes,http://www.mt-archive.info/10/IWSLT-2012-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2013,N/A,N/A,"Heidelberg Germany 
+ ",yes,http://www.mt-archive.info/10/IWSLT-2013-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2014,N/A,N/A,California USA ,yes,http://www.mt-archive.info/10/IWSLT-2014-TOC.htm
+International Workshop on Spoken Language Translation (IWSLT),2015,N/A,N/A,Vietnam ,yes,http://www.mt-archive.info//15/IWSLT-2015-TOC.htm
+Machine Translation Marathon,N/A,N/A,N/A,,no,
+Machine Translation Marathon,"['20', '20']",Apr,16,Edinburgh UK ,yes,http://www.mt-archive.info/05/MTMarathon-2007-TOC.htm
+Machine Translation Marathon,['20'],May,12,"Berlin Germany 
+ ",yes,http://www.mt-archive.info/05/MTMarathon-2008-TOC.htm
+Machine Translation Marathon,['20'],N/A,N/A,"Prague Czech Republic 
+ ",yes,http://www.mt-archive.info/05/MTMarathon-2009-TOC.htm
+Machine Translation Marathon,2010,Jan,25,"Dublin Ireland 
+ ",yes,http://www.mt-archive.info/10/MTMarathon-2010-TOC.htm
+Machine Translation Marathon,2010,N/A,N/A,"Le Mans France 
+ ",yes,http://www.mt-archive.info/10/MTMarathon-5-2010-TOC.htm
+Machine Translation Marathon,2011,Sep,5,"Trento Italy 
+ ",yes,http://www.mt-archive.info/10/MTMarathon-2011-TOC.htm
+Machine Translation Marathon,2012,Mar,8,"Edinburgh UK 
+ ",yes,http://www.mt-archive.info/10/MTMarathon-2012-TOC.htm
+META-FORUM,N/A,N/A,N/A,,no,
+META-FORUM,['20'],Nov,17,"
+ Brussels Belgium ",yes,http://www.mt-archive.info/10/META-FORUM-2010-TOC.htm
+META-FORUM,['20'],N/A,N/A,"
+ Budapest 
+ Hungary ",yes,http://www.mt-archive.info/10/META-FORUM-2011-TOC.htm
+META-FORUM,2012,N/A,N/A,"
+ Brussels Belgium Summary ",no,http://www.mt-archive.info/10/META-FORUM-2012-summary.htm
+Syntax and Structure in Statistical Translation (SSST),N/A,N/A,N/A,"Syntax 
+ ",no,
+Syntax and Structure in Statistical Translation (SSST),2007,N/A,N/A,Syntax ,yes,http://www.mt-archive.info/05/SSST-2007-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20', '20']",N/A,N/A,"Columbus Ohio 
+ 
+ 
+ ",yes,http://www.mt-archive.info/05/SSST-2008-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20']",N/A,N/A,"Boulder Syntax 
+ ",yes,http://www.mt-archive.info/05/SSST-2009-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2010,Aug,28,"Beijing China 
+ Syntax 
+ ",yes,http://www.mt-archive.info/10/SSST-2010-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),"['20', '20']",Jun,23,"Portland Oregon USA 
+ 
+ Syntax ",yes,http://www.mt-archive.info/10/SSST-2011-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2012,N/A,N/A,"Korea Syntax 
+ 
+ ",yes,http://www.mt-archive.info/10/SSST-2012-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),2013,Jun,13,"Atlanta Georgia 
+ Syntax SSST-7) ",yes,http://www.mt-archive.info/10/SSST-2013-TOC.htm
+Syntax and Structure in Statistical Translation (SSST),['20'],N/A,N/A,"Doha Qatar 
+ Syntax 
+ 
+ ",yes,http://www.mt-archive.info/10/SSST-2014-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),N/A,N/A,N/A,,no,
+Theoretical and Methodological Issues in Machine Translation (TMI),['1985'],Aug,14,"TMI-85 NY 
+ USA ",yes,http://www.mt-archive.info/70/TMI-1985-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),1988,Jun,12,"
+ Pittsburgh USA ",yes,http://www.mt-archive.info/70/TMI-1988-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1990'],Jun,11,"
+ Austin Texas 
+ USA ",yes,http://www.mt-archive.info/90/TMI-1990-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1992'],Jun,25,"Canada 
+ ",yes,http://www.mt-archive.info/90/TMI-1992-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1993'],Jul,14,Kyoto Japan ,yes,http://www.mt-archive.info/90/TMI-1993-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1995'],N/A,N/A,Leuven Belgium ,yes,http://www.mt-archive.info/90/TMI-1995-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),['1997'],Jul,23,"New Mexico USA 
+ ",yes,http://www.mt-archive.info/90/TMI-1997-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),1999,Aug,23,"
+ 
+ England 
+ ",yes,http://www.mt-archive.info/90/TMI-1999-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),"['20', '20']",Mar,13,Keihanna Japan ,yes,http://www.mt-archive.info/00/TMI-2002-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),2004,N/A,N/A,"
+ Baltimore Maryland USA 
+ ",yes,http://www.mt-archive.info/00/TMI-2004-TOC.htm
+Theoretical and Methodological Issues in Machine Translation (TMI),"['20', '20']",N/A,N/A,Skövde Sweden ,yes,http://www.mt-archive.info/05/TMI-2007-TOC.htm
+Translating and the Computer:,2014,N/A,N/A,"
+ 
+ AsLing ",no,
+Translating and the Computer:,['1978'],Nov,14,"London 
+ 
+ ",yes,http://www.mt-archive.info/70/Aslib-1978-TOC.htm
+Translating and the Computer:,1981,Nov,20,"London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1980-TOC.htm
+Translating and the Computer:,['1981'],N/A,N/A,"London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1981-TOC.htm
+Translating and the Computer:,['1982'],Mar,13,"London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1982-TOC.htm
+Translating and the Computer:,['1983'],Nov,10,"London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1983-TOC.htm
+Translating and the Computer:,1985,Nov,20,"London 
+ 
+ London ",yes,http://www.mt-archive.info/70/Aslib-1984-TOC.htm
+Translating and the Computer:,1986,Nov,14,"London 
+ London ",yes,http://www.mt-archive.info/70/Aslib-1985-TOC.htm
+Translating and the Computer:,1987,Nov,13,"London 
+ Aslib 
+ ",yes,http://www.mt-archive.info/70/Aslib-1986-TOC.htm
+Translating and the Computer:,1988,Nov,12,"London 
+ Aslib 
+ ",yes,http://www.mt-archive.info/70/Aslib-1987-TOC.htm
+Translating and the Computer:,1990,Nov,10,"London 
+ London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1988-TOC.htm
+Translating and the Computer:,1990,Nov,16,"London 
+ ",yes,http://www.mt-archive.info/70/Aslib-1989-TOC.htm
+Translating and the Computer:,1991,N/A,N/A,"London 
+ 
+ 
+ ",yes,http://www.mt-archive.info/90/Aslib-1990-TOC.htm
+Translating and the Computer:,1992,Nov,28,"London 
+ 
+ London Aslib 
+ ",yes,http://www.mt-archive.info/90/Aslib-1991-TOC.htm
+Translating and the Computer:,1992,Nov,10,"London 
+ 
+ ",yes,http://www.mt-archive.info/90/Aslib-1992-TOC.htm
+Translating and the Computer:,1993,Mar,12,"London 
+ ",yes,http://www.mt-archive.info/90/Aslib-1993-TOC.htm
+Translating and the Computer:,1994,Nov,10,"London 
+ London Aslib 
+ ",yes,http://www.mt-archive.info/90/Aslib-1994-TOC.htm
+Translating and the Computer:,1995,Nov,9,"London 
+ London Aslib 
+ ",yes,http://www.mt-archive.info/90/Aslib-1995-TOC.htm
+Translating and the Computer:,1996,Nov,14,"London 
+ London Aslib 
+ ",yes,http://www.mt-archive.info/90/Aslib-1996-TOC.htm
+Translating and the Computer:,1997,Nov,13,"London 
+ ” ( London Aslib 
+ ",yes,http://www.mt-archive.info/90/Aslib-1997-TOC.htm
+Translating and the Computer:,1998,Nov,12,"London 
+ 
+ ",yes,http://www.mt-archive.info/90/Aslib-1998-TOC.htm
+Translating and the Computer:,1999,Nov,10,"London 
+ ",yes,http://www.mt-archive.info/90/Aslib-1999-TOC.htm
+Translating and the Computer:,2000,Nov,16,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/00/Aslib-2000-TOC.htm
+Translating and the Computer:,2001,Nov,29,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/00/Aslib-2001-TOC.htm
+Translating and the Computer:,2002,Nov,21,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/00/Aslib-2002-TOC.htm
+Translating and the Computer:,2003,Nov,20,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/00/Aslib-2003-TOC.htm
+Translating and the Computer:,2004,Nov,18,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/00/Aslib-2004-TOC.htm
+Translating and the Computer:,2005,Nov,24,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/05/Aslib-2005-TOC.htm
+Translating and the Computer:,2006,Nov,16,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/05/Aslib-2006-TOC.htm
+Translating and the Computer:,2007,Nov,29,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/05/Aslib-2007-TOC.htm
+Translating and the Computer:,2008,Nov,27,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/05/Aslib-2008-TOC.htm
+Translating and the Computer:,2009,Nov,19,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/05/Aslib-2009-TOC.htm
+Translating and the Computer:,2010,Nov,18,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/10/Aslib-2010-TOC.htm
+Translating and the Computer:,2011,Nov,17,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/10/Aslib-2011-TOC.htm
+Translating and the Computer:,2012,Nov,29,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/10/Aslib-2012-TOC.htm
+Translating and the Computer:,2013,Nov,28,"London 
+ London 
+ 
+ ",yes,http://www.mt-archive.info/10/Aslib-2013-TOC.htm
+Translating and the Computer:,2014,Nov,27,"London 
+ AsLing ",yes,http://www.mt-archive.info/10/Asling-2014-TOC.htm
+Translating and the Computer:,2015,Nov,26,London AsLing ,yes,http://www.mt-archive.info//15/Asling-2015-TOC.htm
+Translating and the Computer:,2016,Nov,17,London AsLing ,yes,http://www.mt-archive.info//15/Asling-2016-TOC.htm
+Translingual Europe,N/A,N/A,N/A,,no,
+Translingual Europe,2009,May,13,"Prague Czech Republic 
+ ",yes,http://www.mt-archive.info/05/Translingual-Europe-2009-TOC.htm
+Translingual Europe,2010,Jun,7,"
+ Berlin Germany ",yes,http://www.mt-archive.info/10/Translingual-Europe-2010-TOC.htm
+Workshops on Statistical Machine Translation (WMT),N/A,N/A,N/A,,no,
+Workshops on Statistical Machine Translation (WMT),"['20', '20']",N/A,N/A,,yes,http://www.mt-archive.info/05/WMT-2006-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']",N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/WMT-2007-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']",N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/WMT-2008-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2009,Mar,30,"
+ ",yes,http://www.mt-archive.info/05/WMT-2009-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2010,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/10/WMT-2010-TOC.htm
+Workshops on Statistical Machine Translation (WMT),"['20', '20']",N/A,N/A,,yes,http://www.mt-archive.info/10/WMT-2011-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2012,N/A,N/A,"
+ 
+ ",yes,http://www.mt-archive.info/10/WMT-2012-TOC.htm
+Workshops on Statistical Machine Translation (WMT),['20'],Aug,9,"Sofia Bulgaria 
+ 
+ ",yes,http://www.mt-archive.info/10/WMT-2013-TOC.htm
+Workshops on Statistical Machine Translation (WMT),2014,Jun,26,"Baltimore Maryland 
+ 
+ ",yes,http://www.mt-archive.info/10/WMT-2014-TOC.htm
+Workshops on Statistical Machine Translation (WMT),N/A,N/A,N/A,,no,
+Other conferences and workshops,N/A,N/A,N/A,,no,
+International Workshop on Computer Aided Translation,1985,Mar,16,"Riyadh 
+ ",yes,http://www.mt-archive.info/70/Wahab-1985-TOC.htm
+World Systran Conference,1986,Feb,11,"Luxembourg 
+ ",yes,http://www.mt-archive.info/70/T&T-1986-TOC.htm
+"IAI-MT86,",1986,Mar,20,"
+ West
+   Germany ",yes,http://www.mt-archive.info/70/IAI-1986-TOC.htm
+New Directions in Machine Translation,1988,Aug,18,"Budapest Hungary 
+ ",yes,http://www.mt-archive.info/70/DLT-1988-Maxwell-TOC.htm
+International Forum for Translation Technology,1989,N/A,N/A,,no,http://www.mt-archive.info/70/IFTT-1989-TOC.htm
+Workshop on Machine Translation,1990,N/A,N/A,"UK 
+ ",yes,http://www.mt-archive.info/90/UMIST-1990-TOC.htm
+Evaluators’ Forum,1991,Apr,21,"
+ Switzerland ",yes,http://www.mt-archive.info/90/ISSCO-1991-TOC.htm
+International Workshop on Fundamental Research for the Future Generation of Natural Language Processing,1992,Jul,30,"Manchester 
+ UK ",yes,http://www.mt-archive.info/90/FGNLP-1992-TOC.htm
+MT Evaluation,1992,N/A,N/A,"
+ San
+  Diego California USA ",yes,http://www.mt-archive.info/90/AMTA-1992-TOC.htm
+ARPA Workshop on Machine Translation,1994,Mar,17,"Vienna Virginia USA 
+ ",yes,http://www.mt-archive.info/90/ARPA-1994-TOC.htm
+Spoken Language Translation,1997,Jul,11,Madrid Spain ,yes,http://www.mt-archive.info/90/SLT-1997-TOC.htm
+MT Eval Workshop,2001,Apr,19,"
+ Geneva 
+ Switzerland ",yes,http://www.mt-archive.info/00/MTEval-2001-TOC.htm
+"METIS Workshop,",2007,Jan,11,"
+ Belgium 
+ ",yes,http://www.mt-archive.info/05/METIS-2007-TOC.htm
+MATMT workshop,2008,Feb,14,"
+ ",yes,http://www.mt-archive.info/05/MATMT-2008-TOC.htm
+Statistical Multilingual Analysis for Retrieval and Translation,2009,May,13,"
+ Barcelona Spain ",yes,http://www.mt-archive.info/05/SMART-2009-TOC.htm
+Joint EM+/CNGL workshop,2010,Nov,4,"Denver 
+ Colorado ",yes,http://www.mt-archive.info/10/JEC-2010-TOC.htm
+Machine Translation and Morphologically Rich Languages,2011,Jan,23,"Haifa Israel 
+ ",yes,http://www.mt-archive.info/10/MTMRL-2011-TOC.htm
+International Workshop on Using Linguistic Information for Hybrid Machine Translation,2011,N/A,N/A,Barcelona Spain ,yes,http://www.mt-archive.info/10/LIHMT-2011-TOC.htm
+Crosslingual Language Technology in service of an integrated multilingual Europe,2012,N/A,N/A,"
+ Hamburg Germany ",no,http://www.mt-archive.info/10/CLLT-2012-abs.pdf
+Crosslingual Language Technology in service of an integrated multilingual Europe,N/A,N/A,N/A,,no,
+Workshops on MT held during other conferences,N/A,N/A,N/A,"
+ ",no,
+Association for Computational Linguistics (ACL),N/A,N/A,N/A,,no,
+Association for Computational Linguistics (ACL),1997,Jul,11,"
+ ",yes,http://www.mt-archive.info/90/SLT-1997-TOC.htm
+Association for Computational Linguistics (ACL),2001,Jul,7,"
+ 
+ ",yes,http://www.mt-archive.info/00/ACL-EACL-2001-TOC.htm
+Association for Computational Linguistics (ACL),2002,N/A,N/A,,yes,http://www.mt-archive.info/00/ACL-2002-TOC.htm
+Association for Computational Linguistics (ACL),2005,Jun,29,"
+ ",yes,http://www.mt-archive.info/05/ACL-2005-WS-PT-TOC.htm
+Association for Computational Linguistics (ACL),2007,Jun,23,"
+ 
+ ",yes,http://www.mt-archive.info/05/WMT-2007-TOC.htm
+Association for Computational Linguistics (ACL),['20'],N/A,N/A,,yes,http://www.mt-archive.info/05/WMT-2008-TOC.htm
+Association for Computational Linguistics (ACL),['20'],N/A,N/A,,yes,http://www.mt-archive.info/05/SSST-2008-TOC.htm
+Association for Computational Linguistics (ACL),['20'],N/A,N/A,,yes,http://www.mt-archive.info/05/NEWS-2009-TOC.htm
+Association for Computational Linguistics (ACL),['20'],N/A,N/A,"
+ ",yes,http://www.mt-archive.info/10/WMT-2010-TOC.htm
+Association for Computational Linguistics (ACL),['20'],N/A,N/A,"
+ 
+ ",yes,http://www.mt-archive.info/10/BUCC-2013-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),N/A,N/A,N/A,"
+ ",no,
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'],May,4,"
+ ",yes,http://www.mt-archive.info/00/ANLP-NAACL-2000-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'],N/A,N/A,"
+ ",yes,http://www.mt-archive.info/00/NAACL-ANLP-2000-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2003,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/00/HLT-NAACL-2003-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2006,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/HLT-NAACL-2006-WS-MST-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2006,N/A,N/A,,yes,http://www.mt-archive.info/05/WMT-2006-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),2007,Apr,26,"
+ Syntax 
+ ",yes,http://www.mt-archive.info/05/SSST-2007-TOC.htm
+North American Chapter of the Association for Computational Linguistics (NAACL),['20'],Jun,5,"Syntax 
+ ",yes,http://www.mt-archive.info/05/SSST-2009-TOC.htm
+Computational Linguistics Coling,N/A,N/A,N/A,"
+ ",no,
+Computational Linguistics Coling,['20'],Sep,1,,yes,http://www.mt-archive.info/00/Coling-2002-TOC.htm
+Computational Linguistics Coling,2012,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/10/Coling-2012-WS-RSMT.htm
+Computational Linguistics Coling,2012,N/A,N/A,"
+ 
+ 
+ ",yes,http://www.mt-archive.info/10/Coling-2012-WS-ML4HMT.htm
+European Association for Computational Linguistics (EACL),N/A,N/A,N/A,,no,
+European Association for Computational Linguistics (EACL),['20'],Mar,13,"
+ France ",yes,http://www.mt-archive.info/10/EACL-2012-WS-TOC.htm
+"European Summer School on Logic, Linguistics and Information (ESSLLI)",N/A,N/A,N/A,,no,
+"European Summer School on Logic, Linguistics and Information (ESSLLI)",['1998'],N/A,N/A,Saarbrücken ,yes,http://www.mt-archive.info/90/ESSLLI-1998-TOC.htm
+Human Language Technology HLT,N/A,N/A,N/A,,no,
+Human Language Technology HLT,2003,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/00/HLT-NAACL-2003-TOC.htm
+Human Language Technology HLT,2006,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/HLT-NAACL-2006-WS-MST-TOC.htm
+Human Language Technology HLT,2006,N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/WMT-2006-TOC.htm
+Human Language Technology HLT,2007,Apr,26,"
+ Syntax 
+ ",yes,http://www.mt-archive.info/05/SSST-2007-TOC.htm
+Human Language Technology HLT,['20'],N/A,N/A,"
+ ",yes,http://www.mt-archive.info/05/WMT-2008-TOC.htm
+Human Language Technology HLT,['20'],N/A,N/A,,yes,http://www.mt-archive.info/05/SSST-2008-TOC.htm
+Human Language Technology HLT,['20'],Jun,5,,yes,http://www.mt-archive.info/05/SSST-2009-TOC.htm
+Language Resources and Evaluation (LREC),N/A,N/A,N/A,,no,
+Language Resources and Evaluation (LREC),2000,May,29,"LREC 
+ ",yes,http://www.mt-archive.info/00/LREC-2000-TOC.htm
+Language Resources and Evaluation (LREC),2002,May,27,LREC ,no,http://www.mt-archive.info/00/LREC-2002-WS-MTEval.pdf
+Language Resources and Evaluation (LREC),2002,May,27,"LREC 
+ 
+ ",no,http://www.mt-archive.info/00/LREC-2002-WS-UNL.pdf
+Language Resources and Evaluation (LREC),2004,May,25,"LREC 
+ ",no,http://www.mt-archive.info/00/LREC-2004-WS-Corpora.pdf
+Language Resources and Evaluation (LREC),5391,May,23,"LREC 
+ ",no,http://www.mt-archive.info/05/LREC-2006-SALTMIL-WS.pdf
+Language Resources and Evaluation (LREC),2012,May,26,"LREC 
+ 
+ ",yes,http://www.mt-archive.info/10/BUCC-2012-TOC.htm
+Language Resources and Evaluation (LREC),2014,May,27,"LREC 
+ ",yes,http://www.mt-archive.info/10/BUCC-2014-TOC.htm
+Recent Advances in Natural Language Processing (RANLP),N/A,N/A,N/A,,no,
+Recent Advances in Natural Language Processing (RANLP),2005,Sep,24,"
+ Bulgaria ",yes,http://www.mt-archive.info/05/RANLP-2005-TOC.htm

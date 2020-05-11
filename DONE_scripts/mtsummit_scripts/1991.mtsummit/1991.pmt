@@ -1,0 +1,708 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<base href="http://www.mt-archive.info/">
+<link rel=File-List
+href="file:///G:\MT-Archive%20to%20transfer\Nirenburg-1993-TOC_files\filelist.xml">
+<title>Progress in Machine Translation</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>John Hutchins</o:Author>
+  <o:LastAuthor>John Hutchins</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>50</o:TotalTime>
+  <o:Created>2006-12-14T17:09:00Z</o:Created>
+  <o:LastSaved>2006-12-14T17:09:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>790</o:Words>
+  <o:Characters>4504</o:Characters>
+  <o:Lines>37</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5284</o:CharactersWithSpaces>
+  <o:Version>11.8107</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DontDisplayPageBoundaries/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>6 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>3</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas>false</w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotUnderlineInvalidXML/>
+  <w:DoNotShadeFormData/>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:AdjustLineHeightInTable/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:#606420;
+	text-decoration:underline;
+	text-underline:single;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:72.0pt 66.95pt 36.0pt 162.5pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:595.45pt 841.7pt;
+	margin:72.0pt 70.45pt 36.0pt 153.25pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+@page Section3
+	{size:595.45pt 841.7pt;
+	margin:72.0pt 65.4pt 36.0pt 160.7pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section3
+	{page:Section3;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink="#606420" style='tab-interval:36.0pt;
+text-justify-trim:punctuation'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><b><span
+lang=EN-GB style='font-size:21.0pt;mso-ansi-language:EN-GB;font-style:normal'>Progress
+in Machine Translation<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'>edited by<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'>Sergei Nirenburg<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='font-size:11.0pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'>Amsterdam/Oxford/Washington, DC<span
+style='mso-spacerun:yes'>       </span>1993<span
+style='mso-spacerun:yes'>        </span>Tokyo/Osaka/Kyoto: Ohmsha<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='mso-ansi-language:EN-GB;mso-bidi-font-weight:bold;font-style:
+normal'>[ISBN: 90-5199-074-X; 4-274-07721-7 C3055]<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='letter-spacing:-.65pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><span
+lang=EN-GB style='mso-ansi-language:EN-GB;mso-bidi-font-weight:bold;font-style:
+normal'>Includes papers presented at the <a href="MTS-1991-TOC.htm">MT Summit
+III conference</a>, Washington, DC, USA, July 1991<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.9pt'><b><span lang=EN-GB
+style='font-size:21.0pt;letter-spacing:-.65pt;mso-ansi-language:EN-GB;
+font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-left:1.9pt;text-align:center'><b><span
+lang=EN-GB style='font-size:21.0pt;letter-spacing:-.65pt;mso-ansi-language:
+EN-GB;font-style:normal'>Contents</span></b></p>
+
+<p class=MsoNormal style='margin-top:30.5pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:1.2pt;margin-bottom:.0001pt;tab-stops:361.2pt'><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>Preface<span style='mso-spacerun:yes'>   </span></span><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>v</span></p>
+
+<p class=MsoNormal style='margin-top:14.65pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:1.2pt;margin-bottom:.0001pt;tab-stops:361.9pt'><b><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>Part
+I: Project Descriptions<span style='mso-spacerun:yes'>       </span></span></b><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;mso-bidi-font-weight:
+bold;font-style:normal'>1</span></p>
+
+<p class=MsoNormal style='margin-top:12.25pt;tab-stops:13.2pt'><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>1<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.05pt'>Advances
+in Machine Translation in IBM</span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                               </span>Mori Rimon,
+Michael McCord, Ulrike Schwall and Pilar Martínez<span
+style='mso-spacerun:yes'>      </span></span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB;font-style:normal'>3</span></p>
+
+<p class=MsoNormal style='margin-top:6.95pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>2<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.05pt'>Architecture
+Sketch of EUROTRA-II</span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                </span>Jörg Schütz,
+George Thurmair and Roberto Cencioni<span style='mso-spacerun:yes'>     
+</span></span><span lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;
+mso-ansi-language:EN-GB;font-style:normal'>15</span></p>
+
+<p class=MsoNormal style='margin-top:6.7pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>3<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.05pt'><a
+href="Nirenburg-1993-Tanaka.pdf">Multilingual Machine Translation Systems in
+the Future</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.1pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                </span>Hozumi
+Tanaka<span style='mso-spacerun:yes'>      </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.1pt;mso-ansi-language:EN-GB;font-style:
+normal'>29</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>4<span
+style='mso-tab-count:1'>    </span><a href="Nirenburg-1993-Kurematsu.pdf">Speech
+Translation at ATR</a></span></p>
+
+<p class=MsoNormal style='margin-top:1.2pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                </span>Akira
+Kurematsu<span style='mso-spacerun:yes'>      </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>33</span></p>
+
+<p class=MsoNormal style='margin-top:15.6pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.7pt;margin-bottom:.0001pt;tab-stops:357.35pt'><b><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>Part
+II: System Descriptions<span style='mso-spacerun:yes'>     </span></span></b><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.5pt;mso-ansi-language:EN-GB;
+font-style:normal'>43</span></p>
+
+<p class=MsoNormal style='margin-top:12.0pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>5<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.05pt'>ULTRA: A
+Multilingual Machine Translator</span></span></p>
+
+<p class=MsoNormal style='margin-top:1.2pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                </span>David Farwell
+and Yorick Wilks<span style='mso-spacerun:yes'>     </span></span><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>45</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>6<span
+style='mso-tab-count:1'>    </span>Translation Techniques in Chinese</span></p>
+
+<p class=MsoNormal style='tab-stops:13.2pt'><span
+style='mso-spacerun:yes'>                                </span><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB'>Wanying Jin<span
+style='mso-spacerun:yes'>     </span></span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB;font-style:normal'>53</span></p>
+
+<p class=MsoNormal style='margin-top:5.75pt;line-height:11.5pt;mso-line-height-rule:
+exactly;tab-stops:13.2pt'><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'>7<span style='mso-tab-count:1'>    </span><span
+style='letter-spacing:.05pt'>Capturing Language-Specific Semantic Distinctions
+in Interlingua-Based MT</span></span></p>
+
+<p class=MsoNormal style='margin-left:58.1pt;line-height:11.5pt;mso-line-height-rule:
+exactly'><span lang=EN-GB style='font-size:9.5pt;letter-spacing:.1pt;
+mso-ansi-language:EN-GB'><span style='mso-spacerun:yes'>      </span>James
+Barnen, Inderjeet Mani, Elaine Rich, Chinatsu Aone, Kevin Knight</span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB'>and
+Juan Carlos <st1:City w:st="on"><st1:place w:st="on">Martinez</st1:place></st1:City><span
+style='mso-spacerun:yes'>    </span></span><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB;font-style:normal'>67</span></p>
+
+<p class=MsoNormal style='margin-top:5.75pt;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>8<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.05pt'>Applying
+an experimental MT system to a realistic problem</span></span></p>
+
+<p class=MsoNormal style='margin-top:1.2pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>               </span><span
+style='mso-spacerun:yes'>                  </span>Pierrette Bouillon and
+Katharina Boesefeldt<span style='mso-spacerun:yes'>     </span></span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>79</span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:13.2pt;margin-bottom:.0001pt;text-indent:-13.2pt;line-height:11.5pt;
+mso-line-height-rule:exactly;tab-stops:13.2pt'><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>9<span
+style='mso-tab-count:1'>    </span><span style='letter-spacing:.15pt'>ArchTran:<span
+style='mso-spacerun:yes'>   </span>A Corpus-based Statistics-oriented
+English-Chinese Machine Translation </span><span style='letter-spacing:-.1pt'>System</span></span></p>
+
+<p class=MsoNormal style='line-height:11.5pt;mso-line-height-rule:exactly'><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                </span>Shu-Chuan Chen,
+Jing-Shin Chang, Jong-Nae Wang and Keh-Yih Su<span style='mso-spacerun:yes'> 
+</span><span style='mso-spacerun:yes'>    </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>87</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:.7pt;margin-bottom:.0001pt;tab-stops:17.5pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.6pt;mso-ansi-language:EN-GB;font-style:
+normal'>10</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>    </span><span
+style='letter-spacing:.05pt'>The METAL System. Status 1991</span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Thomas
+Schneider<span style='mso-spacerun:yes'>     </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB;font-style:
+normal'>99</span></p>
+
+</div>
+
+<i><span style='font-size:10.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always;
+mso-break-type:section-break'>
+</span></i>
+
+<div class=Section2>
+
+<p class=MsoNormal style='margin-top:6.0pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-1.15pt;mso-ansi-language:EN-GB;
+font-style:normal'>11</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>An Efficient Interlingua Translation System for
+Multi-lingual Document Production</span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Teruko
+Mitamura, Eric H. Nyberg, 3rd and Jaime G. Carbonell<span
+style='mso-spacerun:yes'>      </span></span><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;font-style:normal'>105</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.65pt;mso-ansi-language:EN-GB;
+font-style:normal'>12</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>Multi-lingual Sentence Generation from the PIVOT
+Interlingua</span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Akitoshi
+Okumura, Kazunori Muraki and Susumu Akamine<span style='mso-spacerun:yes'>     
+</span></span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;
+font-style:normal'>119</span></p>
+
+<p class=MsoNormal style='margin-top:5.75pt;margin-right:72.95pt;margin-bottom:
+0cm;margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+11.75pt;mso-line-height-rule:exactly;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.8pt;mso-ansi-language:EN-GB;font-style:
+normal'>13</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>EJ/JE Machine Translation System ASTRANSAC </span></span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB'>-
+</span><span lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:
+EN-GB;font-style:normal'>Extensions toward Personalization</span></p>
+
+<p class=MsoNormal style='line-height:11.75pt;mso-line-height-rule:exactly'><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Hideki
+Hirakawa, Hiroyasu Nogami and Shin-ya Amano<span style='mso-spacerun:yes'>     
+</span></span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;
+font-style:normal'>127</span></p>
+
+<p class=MsoNormal style='margin-top:5.5pt;margin-right:54.7pt;margin-bottom:
+0cm;margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+11.3pt;mso-line-height-rule:exactly;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.65pt;mso-ansi-language:EN-GB;
+font-style:normal'>14</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>Toward High Performance Machine Translation:
+Preliminary Results from Massively Parallel Memory-Based Translation on SNAP</span></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB'><span style='mso-spacerun:yes'>    </span><span
+style='mso-spacerun:yes'>                              </span>Hiroaki Kitano,
+Dan Moldovan and Seungho Cha<span style='mso-spacerun:yes'>      </span></span><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>139</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.9pt;mso-ansi-language:EN-GB;font-style:
+normal'>15</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.15pt'>Connectionist and Symbolic Processing in
+Speech-to-Speech Translation: </span><span style='letter-spacing:.05pt'>The
+JANUS System</span></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;
+mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                   </span>A. N. Jain,
+A. E. McNair, A. Waibel, H. Saito, A. G. Hauptmann </span><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB'>and J.Tebelskis<span
+style='mso-spacerun:yes'>     </span></span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB;font-style:normal'>153</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.8pt;mso-ansi-language:EN-GB;font-style:
+normal'>16</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>Toward an MT System without Pre-Editing - Effects
+of New Methods in ALT-J/E</span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                  </span>Satoru
+Ikehara, Satoshi Shirai, Akio Yokoo and Hiromi Nakaiwa<span
+style='mso-spacerun:yes'>      </span></span><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;font-style:normal'>161</span></p>
+
+<p class=MsoNormal style='margin-top:15.1pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:1.2pt;margin-bottom:.0001pt;tab-stops:359.05pt'><b><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.1pt;mso-ansi-language:EN-GB;
+font-style:normal'>Part III: MT Tools<span style='mso-spacerun:yes'>    
+</span></span></b><span lang=EN-GB style='font-size:9.5pt;letter-spacing:-1.0pt;
+mso-ansi-language:EN-GB;font-style:normal'>171</span></p>
+
+<p class=MsoNormal style='margin-top:12.25pt;tab-stops:18.0pt'><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.9pt;mso-ansi-language:EN-GB;
+font-style:normal'>17</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'><a href="Nirenburg-1993-Jappinen.pdf">KIELIKONE
+Machine Translation Workstation</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                   </span>H. Jäppinen,
+K. Hartonen, L. Kulikov, A. Nykänen and A. Ylä-Rotiala<span
+style='mso-spacerun:yes'>      </span></span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB;font-style:normal'>173</span></p>
+
+<p class=MsoNormal style='margin-top:5.5pt;margin-right:54.7pt;margin-bottom:
+0cm;margin-left:18.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
+11.75pt;mso-line-height-rule:exactly;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.9pt;mso-ansi-language:EN-GB;font-style:
+normal'>18</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span>The
+Translator’s Workbench: An Environment for Multi-Lingual Text Pro<span
+style='letter-spacing:.05pt'>cessing and Translation</span></span></p>
+
+<p class=MsoNormal><span lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;
+mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                   </span>Marianne
+Kugler, Gerd Heyer, Ralf Kese, Beate von Kleist-Retzow</span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'>and
+Guenter Winkelmann<span style='mso-spacerun:yes'>      </span></span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>185</span></p>
+
+<p class=MsoNormal style='margin-top:6.95pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.8pt;mso-ansi-language:EN-GB;font-style:
+normal'>19</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>Automation of Bilingual Lexicon Compilation</span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;mso-bidi-font-style:normal'><span
+style='mso-spacerun:yes'>                                    </span>I</span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>. </span><span lang=EN-GB style='font-size:9.5pt;letter-spacing:
+-.05pt;mso-ansi-language:EN-GB'>Arturo Trujillo and David A. Plowman<span
+style='mso-spacerun:yes'>         </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>191</span></p>
+
+<p class=MsoNormal style='margin-top:15.35pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.5pt;margin-bottom:.0001pt;tab-stops:358.55pt'><b><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>Part
+IV: MT and National Governments<span style='mso-spacerun:yes'>     </span></span></b><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.85pt;mso-ansi-language:EN-GB;
+font-style:normal'>197</span></p>
+
+<p class=MsoNormal style='margin-top:12.25pt;tab-stops:18.0pt'><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.3pt;mso-ansi-language:EN-GB;
+font-style:normal'>20</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>    </span><span
+style='letter-spacing:.05pt'><a href="Nirenburg-1993-Czermak.pdf">Government
+Support for MT in Germany</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.7pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                  </span>Jan-Michael
+Czermak<span style='mso-spacerun:yes'>      </span></span><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'>199</span></p>
+
+<p class=MsoNormal style='margin-top:6.7pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.8pt;mso-ansi-language:EN-GB;font-style:
+normal'>21</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'><a href="Nirenburg-1993-Nagao.pdf">Machine
+Translation: The Japanese Experience</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.1pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Makoto
+Nagao<span style='mso-spacerun:yes'>     </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:.1pt;mso-ansi-language:EN-GB;font-style:
+normal'>203</span></p>
+
+<p class=MsoNormal style='margin-top:6.5pt;tab-stops:18.0pt'><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.45pt;mso-ansi-language:EN-GB;
+font-style:normal'>22</span><span lang=EN-GB style='font-size:9.5pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-tab-count:1'>     </span><span
+style='letter-spacing:.05pt'>MT, the Federal Government, and the Role of
+Translator Associations</span></span></p>
+
+<p class=MsoNormal style='margin-top:.95pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.15pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                                 </span>Deanna Hammond<span
+style='mso-spacerun:yes'>     </span></span><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:.15pt;mso-ansi-language:EN-GB;font-style:normal'>209</span></p>
+
+<p class=MsoNormal style='margin-top:15.35pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.25pt;margin-bottom:.0001pt;tab-stops:356.65pt'><b><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.15pt;mso-ansi-language:EN-GB;
+font-style:normal'>PART V: MT in Use<span style='mso-spacerun:yes'>     </span></span></b><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:-.25pt;mso-ansi-language:EN-GB;
+font-style:normal'>211</span></p>
+
+<p class=MsoNormal style='margin-top:11.5pt;line-height:11.5pt;mso-line-height-rule:
+exactly;tab-stops:18.0pt'><span lang=EN-GB style='font-size:9.5pt;letter-spacing:
+-.5pt;mso-ansi-language:EN-GB;font-style:normal'>23</span><span lang=EN-GB
+style='font-size:9.5pt;mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:.05pt'>Forum:
+Building the Customer Base</span></span></p>
+
+<p class=MsoNormal style='margin-right:18.25pt;line-height:11.5pt;mso-line-height-rule:
+exactly'><span lang=EN-GB style='font-size:9.5pt;letter-spacing:-.05pt;
+mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                               </span>Howard R.
+Teicher, Michael Gainet, Edith Losa, </span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'>Maria Pilar Martinez-Perez, Muriel Jerome
+O'Keeffe, Sue Walker Toledo <span style='letter-spacing:.1pt'>and Michael
+Zarenchak<span style='mso-spacerun:yes'>    </span>2</span></span><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:.1pt;mso-ansi-language:EN-GB;
+font-style:normal'>13</span></p>
+
+</div>
+
+<i><span style='font-size:10.0pt;font-family:"Times New Roman";mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA'><br clear=all style='page-break-before:always;
+mso-break-type:section-break'>
+</span></i>
+
+<div class=Section3>
+
+<p class=MsoNormal style='margin-left:.25pt;tab-stops:18.0pt'><span lang=EN-GB
+style='letter-spacing:-.45pt;mso-ansi-language:EN-GB;font-style:normal'>24</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:-.2pt'><a
+href="Nirenburg-1993-Kawasaki.pdf">Organizational Use of Machine Translation
+Systems</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.25pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                              </span>Zenshiro
+Kawasaki<span style='mso-spacerun:yes'>      </span>2</span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>17</span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:.25pt;margin-bottom:.0001pt;tab-stops:18.0pt'><span lang=EN-GB
+style='letter-spacing:-.8pt;mso-ansi-language:EN-GB;font-style:normal'>25</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:-.15pt'><a
+href="Nirenburg-1993-Ryan.pdf">Machine Translation: Matching Reality to Expectations</a></span></span></p>
+
+<p class=MsoNormal style='margin-top:.5pt'><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                             </span>Joann P. Ryan<span
+style='mso-spacerun:yes'>     </span></span><span lang=EN-GB style='font-size:
+9.5pt;mso-ansi-language:EN-GB;font-style:normal'>225</span></p>
+
+<p class=MsoNormal style='margin-top:6.25pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.25pt;margin-bottom:.0001pt;tab-stops:18.0pt'><span lang=EN-GB
+style='letter-spacing:-.55pt;mso-ansi-language:EN-GB;font-style:normal'>26</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:-.2pt'>MT
+Application for the Translation Agency</span></span></p>
+
+<p class=MsoNormal style='margin-top:.25pt'><span lang=EN-GB style='letter-spacing:
+-.2pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                            </span>Keizou Sakurai,
+Masahiko Ozeki and Yoshiyuki Nishihara<span style='mso-spacerun:yes'>    
+</span></span><span lang=EN-GB style='letter-spacing:-.2pt;mso-ansi-language:
+EN-GB;font-style:normal'>237</span></p>
+
+<p class=MsoNormal style='margin-top:5.75pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.25pt;margin-bottom:.0001pt;tab-stops:18.0pt'><span lang=EN-GB
+style='letter-spacing:-.7pt;mso-ansi-language:EN-GB;font-style:normal'>27</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:-.15pt'>Forum:
+MT User Experience</span></span></p>
+
+<p class=MsoNormal style='margin-left:61.45pt'><span lang=EN-GB
+style='letter-spacing:-.2pt;mso-ansi-language:EN-GB'>Muriel Vasconcellos, Bernard
+Scon, John Chandioux and Hideki Tanaka<span style='mso-spacerun:yes'>    
+</span></span><span lang=EN-GB style='letter-spacing:-.2pt;mso-ansi-language:
+EN-GB;font-style:normal'>243</span></p>
+
+<p class=MsoNormal style='margin-top:5.75pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.25pt;margin-bottom:.0001pt;line-height:11.5pt;mso-line-height-rule:
+exactly;tab-stops:18.0pt'><span lang=EN-GB style='letter-spacing:-.7pt;
+mso-ansi-language:EN-GB;font-style:normal'>28</span><span lang=EN-GB
+style='mso-ansi-language:EN-GB;font-style:normal'><span style='mso-tab-count:
+1'>     </span><span style='letter-spacing:-.15pt'>Forum: Translators and MT</span></span></p>
+
+<p class=MsoNormal style='line-height:11.5pt;mso-line-height-rule:exactly'><span
+lang=EN-GB style='font-size:9.5pt;letter-spacing:.05pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                          </span>Alex Gross, Claude
+Bédard, Harold Hille, Martin Kay, Frederick Klein</span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.1pt;mso-ansi-language:EN-GB'>and Sergei
+Nirenburg<span style='mso-spacerun:yes'>     </span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.1pt;mso-ansi-language:EN-GB;font-style:
+normal'>253</span></p>
+
+<p class=MsoNormal style='margin-top:6.0pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:.25pt;margin-bottom:.0001pt;tab-stops:18.0pt'><span lang=EN-GB
+style='letter-spacing:-.6pt;mso-ansi-language:EN-GB;font-style:normal'>29</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>     </span><span style='letter-spacing:-.15pt'>Forum:
+Evaluation of MT Systems</span></span></p>
+
+<p class=MsoNormal style='margin-top:.5pt;margin-right:0cm;margin-bottom:0cm;
+margin-left:60.25pt;margin-bottom:.0001pt'><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB'>Margaret King, Yorick
+Wilks, Sture Allen, Ulrich Heid and Doris Albisser<span
+style='mso-spacerun:yes'>     </span></span><span lang=EN-GB style='font-size:
+9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;font-style:normal'>267</span></p>
+
+<p class=MsoNormal style='margin-top:14.4pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.5pt;margin-bottom:.0001pt;tab-stops:356.15pt'><b
+style='mso-bidi-font-weight:normal'><span lang=EN-GB style='letter-spacing:
+-.1pt;mso-ansi-language:EN-GB;font-style:normal'>PART VI: Applications of MT
+Technology</span></b><span lang=EN-GB style='letter-spacing:-.1pt;mso-ansi-language:
+EN-GB;font-style:normal'><span style='mso-spacerun:yes'>     </span></span><span
+lang=EN-GB style='letter-spacing:-.6pt;mso-ansi-language:EN-GB;font-style:normal'>283</span><span
+lang=EN-GB style='mso-ansi-language:EN-GB;font-style:normal'><span
+style='mso-tab-count:1'>                                                                         </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:14.4pt;margin-right:0cm;margin-bottom:
+0cm;margin-left:.5pt;margin-bottom:.0001pt;tab-stops:356.15pt'><span
+lang=EN-GB style='letter-spacing:-.2pt;mso-ansi-language:EN-GB;font-style:normal'>Forum:
+Applications of MT Technology</span></p>
+
+<p class=MsoNormal style='line-height:11.75pt;mso-line-height-rule:exactly'><span
+lang=EN-GB style='font-size:9.5pt;mso-ansi-language:EN-GB'><span
+style='mso-spacerun:yes'>                         </span>Sergei Nirenburg, Rod
+Johnson, Richard Kitteredge, Lori Levin, <span style='letter-spacing:-.05pt'>Hiroshi
+Uchida, Steven Weinstein, Yorick Wilks and Stephen Richardson<span
+style='mso-spacerun:yes'>     </span></span></span><span lang=EN-GB
+style='font-size:9.5pt;letter-spacing:-.05pt;mso-ansi-language:EN-GB;
+font-style:normal'>285</span></p>
+
+<p class=MsoNormal style='margin-top:11.75pt;tab-stops:355.2pt'><span
+lang=EN-GB style='letter-spacing:-.25pt;mso-ansi-language:EN-GB;font-style:
+normal'>Bibliography<span style='mso-spacerun:yes'>      </span></span><span
+lang=EN-GB style='letter-spacing:-.5pt;mso-ansi-language:EN-GB;font-style:normal'>297</span></p>
+
+<p class=MsoNormal style='margin-top:12.0pt;tab-stops:355.7pt'><span
+lang=EN-GB style='letter-spacing:-.25pt;mso-ansi-language:EN-GB;font-style:
+normal'>Author Index<span style='mso-spacerun:yes'>       </span></span><span
+lang=EN-GB style='letter-spacing:-.6pt;mso-ansi-language:EN-GB;font-style:normal'>319</span></p>
+
+</div>
+
+</body>
+
+</html>

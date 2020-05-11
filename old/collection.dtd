@@ -1,0 +1,30 @@
+<!ELEMENT collection (volume+)>
+<!ATTLIST collection
+          id CDATA #REQUIRED>
+<!ELEMENT volume (meta, frontmatter, paper+)>
+<!ATTLIST volume
+          id CDATA #REQUIRED>
+<!ELEMENT meta (booktitle, url, editor+, publisher, address, month, year)>
+<!ELEMENT booktitle  (#PCDATA | fixed-case)*>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT editor (first, last)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT last (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT frontmatter (url)>
+<!ELEMENT paper (title, author+, pages, url, revision?)>
+<!ATTLIST paper
+          id CDATA #REQUIRED>
+<!ELEMENT title  (#PCDATA | fixed-case)*>
+<!ELEMENT author (first, last)>
+<!ATTLIST author
+          id CDATA #IMPLIED>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT fixed-case (#PCDATA)>
+<!ELEMENT revision (#PCDATA)>
+<!ATTLIST revision
+          href CDATA #REQUIRED
+          id CDATA #REQUIRED>

@@ -1,0 +1,30 @@
+conda install -c anaconda beautifulsoup4
+cd /home/marie/Bureau/mt-archive/
+conda install -c conda-forge dateparser
+conda install spacy
+python -m spacy download en_core_web_sm
+find . -iname '*.pdf' | wc -l
+
+link=http://www.mt-archive.info/srch/conferences-1.htm
+curl -m 100 $link > temp
+python scrapConfPage.py
+
+###
+import nltk
+import nltk.tag.stanford as tg
+#print(dir(st))
+
+st = tg.StanfordNERTagger('stanford-ner/all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
+text = """YOUR TEXT GOES HERE"""
+
+for sent in nltk.sent_tokenize(text):
+    tokens = nltk.tokenize.word_tokenize(sent)
+    tags = st.tag(tokens)
+    for tag in tags:
+        if tag[1]=='PERSON': print(tag)
+###
+
+python -m spacy download en_core_web_lg
+
+find . -iname '*.tsv' -exec file {} \; | grep gzip
+git mv conference-page-2/ data/

@@ -1,0 +1,1088 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="ISMTCL-2009-abstracts_files/filelist.xml">
+<title>ISMTCL</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceName"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="PlaceType"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>John Hutchins</o:Author>
+  <o:LastAuthor>John Hutchins</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>981</o:TotalTime>
+  <o:Created>2009-12-31T17:04:00Z</o:Created>
+  <o:LastSaved>2009-12-31T17:04:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2341</o:Words>
+  <o:Characters>13344</o:Characters>
+  <o:Lines>111</o:Lines>
+  <o:Paragraphs>31</o:Paragraphs>
+  <o:CharactersWithSpaces>15654</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayBackgroundShape/>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>6 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>3</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas>false</w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotUnderlineInvalidXML/>
+  <w:DoNotShadeFormData/>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:AdjustLineHeightInTable/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+   <w:SelectEntireFieldWithStartOrEnd/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:32771 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:72.0pt 70.9pt 72.0pt 70.9pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt;text-justify-trim:
+punctuation'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:14.0pt;color:black;font-style:normal'>ISMTCL<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>International Symposium
+on Data and Sense<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Mining, Machine
+Translation and Controlled<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=GramE><b><span style='font-size:12.0pt;color:black;font-style:normal'>Languages,</span></b></span><b><span
+style='font-size:12.0pt;color:black;font-style:normal'> and their application
+to<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=GramE><b><span style='font-size:12.0pt;color:black;font-style:normal'>emergencies</span></b></span><b><span
+style='font-size:12.0pt;color:black;font-style:normal'> and safety critical
+domains<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>July 1-3, 2009<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Centre <span
+class=SpellE>Tesnière</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>University of
+Franche-Comté<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Besançon, France</span></b><b><span lang=FR style='font-size:14.0pt;
+color:black;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+lang=FR style='color:black;mso-ansi-language:FR;font-style:normal'>Presses universitaires
+de Franche-Comté, 2009<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='color:black;font-style:normal'>[ISBN 978-2-84867-261-8]<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:14.0pt;color:black;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:14.0pt;color:black;font-style:normal'>Selected abstracts</span></b><b><span
+style='font-size:13.5pt;color:black;font-style:normal'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:13.5pt;
+color:black;font-style:normal'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:11.0pt;color:black;font-style:normal'>pp.13-20</span></span><span
+style='font-size:11.0pt;color:black;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Multiple Uses of Machine
+Translation and Computerised Translation Tools</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>John Hutchins<br>
+</span><span style='font-size:12.0pt;color:black'>web:
+http://www.hutchinsweb.me.uk</span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>For many years MT systems
+and tools were used principally for the production of good-quality translations:
+either MT in combination with controlled (restricted) input and/or with human
+post-editing; or computer-based translation tools by translators. Since 1990
+the situation has changed. Corporate use of MT with human assistance has
+continued to expand (particularly in the area of localisation) and the use of translation
+aids has increased (particularly with the coming of translation memories). But
+the main change has been the ever expanding use of unrevised MT output, such as
+online translation services (Babel Fish, Google, etc.), applications in
+information extraction, document retrieval, intelligence analysis, electronic mail,
+and much more.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+class=GramE><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'>pp.38-42</span></span><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>French to Arabic Machine
+Translation<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Isomorphic Syntax, Use
+of Terminal Sequences</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR;font-style:normal'>Mohand</span></span><span lang=FR style='font-size:12.0pt;
+color:black;mso-ansi-language:FR;font-style:normal'> <span class=SpellE>Beddar</span></span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre Lucien
+<span class=SpellE>Tesnière</span>, Université de Franche-Comté, France<br>
+mohand.beddar@edu.univ-fcomte.fr</span><span lang=FR style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>Languages are different
+and each of them requires special processing. A machine translation system should
+take into account syntactic and semantic particularities of each language. In
+fact, syntactic and semantic models should be defined in both the source and
+target languages and a link should be established between both the syntactic
+and semantic models. In security protocols, French and Arabic syntax are quite similar.
+Structures can be formalized to be isomorphic structures and terminal sequences
+link these structures to the semantics of the language, therefore limiting semantic
+ambiguities.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+class=GramE><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'>pp.43-48</span></span><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Remarks about Linguistic
+Analysis, Normalization and Translation of<br>
+Spanish &quot;What to Do in Case of Fire&quot; Texts</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Xavier Blanco</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Universitat</span></span><span lang=FR style='font-size:12.0pt;color:black;
+mso-ansi-language:FR'> <span class=SpellE>Autònoma</span> de Barcelona<br>
+<span class=SpellE>Xavier.Blanco</span>@ uab.cat</span><span lang=FR
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:FR;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>We intend to discuss, in <span
+class=GramE>a</span> understandable way for no trained linguists, the key
+points that can allow us to see the main invariable meaning of a cluster of
+texts through the enormous multiplicity of possible paraphrases. As means of
+example, we show how to formalize the core messages of a collection of Spanish
+“What to Do in Case of Fire” texts. We keep our analysis to the simple phrase
+level (i.e. no textual constraints as, for instance, cohesion or thematic progression,
+will be discussed). At this level, we discuss mainly the following topics:
+semantic labelling of facts; semantic labelling of entities; paradigmatic lexical
+functions; <span class=SpellE>syntagmatic</span> lexical functions; grammatical
+meanings. We give examples in different European languages concerning the
+translation of our “What to Do in Case of Fire” texts. We show that linguistic
+formalization can be regarded as sort of an <span class=GramE>interlingua</span>
+particularly well suited for translation of alert texts.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.49-55</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Controlled Languages and
+Machine Translation</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Krzysztof <span
+class=SpellE>Bogacki</span></span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><st1:place
+w:st="on"><st1:PlaceName w:st="on"><span style='font-size:12.0pt;color:black'>Warsaw</span></st1:PlaceName><span
+ style='font-size:12.0pt;color:black'> <st1:PlaceType w:st="on">University</st1:PlaceType></span></st1:place><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>kbogacki@gmail.com</span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>We will examine
+controlled languages in the context of machine translation. First we will
+present principles governing the conversion of standard natural language texts
+into controlled Polish. We will compare 6 converted texts with their standard
+sources and comment on them. Then we will present the results of an experiment
+which has turned out to be disappointing in this respect: the number of mistranslations
+and various sorts of mistakes was sufficiently big to make us query the reasons
+of such a result.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;mso-bidi-font-family:Mangal;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.69-73</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Achieving a Better
+Machine Translation from French to English<br>
+via a Controlled Language</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Tessa <span class=SpellE>Cornally</span><br>
+</span><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Centre <span class=SpellE>Tesnière</span>, Université de Franche-Comté,
+France</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><u><span
+style='font-size:12.0pt;color:black'>tessa.carnally@gmail.com</span></u><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>This article discusses
+how the use of a controlled language can improve Machine Translation results. More
+specifically it is concerned with the sublanguage of oenology and examines the
+structures specific to this domain.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.82-89</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>English/Veneto Resource
+Poor Machine Translation with </span></b><b><span style='font-size:12.0pt;
+color:black'>STILVEN</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Rodolfo <span
+class=SpellE>Delmonte</span>, <span class=SpellE>Antonella</span> <span
+class=SpellE>Bristot</span>, Sara <span class=SpellE>Tonelli</span>, <span
+class=SpellE>Emanuele</span> <span class=SpellE>Pianta</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black'>Università</span></span><span
+style='font-size:12.0pt;color:black'> Ca' <span class=SpellE>Foscari</span> -
+Department of Language Sciences</span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>E-<span class=SpellE>mail:delmont@unive.it</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>The paper reports ongoing
+work for the implementation of a system for automatic translation from
+English-to-Veneto and <span class=SpellE>viceversa</span>. The system does not
+have parallel texts to work on because of the almost inexistence of such manual
+translations. The project is called STILVEN and is financed by the Regional
+Authorities of Veneto Region in <st1:country-region w:st="on"><st1:place w:st="on">Italy</st1:place></st1:country-region>.
+After the first year of activities, we managed to produce a prototype which
+handles Venetian questions that have a structure very close to English. We will
+present problems related to <st1:place w:st="on"><st1:State w:st="on">Veneto</st1:State></st1:place>,
+basic ideas, their implementation and results obtained.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.100-103</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Syntactic Problems in
+French-Russian Machine Translation of Periodicals</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Ekaterina <span
+class=SpellE>Ershova</span></span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>Centre <span class=SpellE>Tesnière</span>,
+University of Franche-Comté, <st1:place w:st="on"><st1:City w:st="on"><span
+  class=SpellE><span class=GramE>Besançon</span></span></st1:City><span
+ class=GramE>, <st1:country-region w:st="on">France</st1:country-region></span></st1:place><span
+class=GramE><br>
+ekaterinarshv@gmail.com</span></span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>French-Russian machine
+translation is not a new-found field of study. Nevertheless this is a domain
+that is very rich and fruitful in problems which still need to be resolved,
+particularly syntactic problems. Moreover, limited to a certain subject field,
+i.e. periodicals, MT “of high quality” is certain to be possible.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.104-113</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Translating Composite
+Sentences in Azerbaijani-English MT System</span></b><span style='font-size:
+12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black;font-style:normal'>Rauf</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Fatullayev</span></span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;font-style:normal'><span
+style='mso-spacerun:yes'>               </span></span><span class=SpellE><span
+style='font-size:12.0pt;color:black;font-style:normal'>Sevinc</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Mammadova</span></span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;font-style:normal'><span
+style='mso-spacerun:yes'>             </span></span><span class=SpellE><span
+style='font-size:12.0pt;color:black;font-style:normal'>Abulfat</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Fatullayev</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>National E-Governance</span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span style='mso-spacerun:yes'>      
+</span></span><span style='font-size:12.0pt;color:black'>National E-Governance</span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span style='mso-spacerun:yes'>       
+</span></span><span style='font-size:12.0pt;color:black'>Institute of
+Cybernetics</span><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>Network Initiative Project</span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span style='mso-spacerun:yes'>   
+</span></span><span style='font-size:12.0pt;color:black'>Network Initiative
+Project</span><span style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:
+"Times New Roman";mso-bidi-font-family:Arial;color:black'><span
+style='mso-spacerun:yes'>          </span></span><st1:place w:st="on"><st1:City
+ w:st="on"><span style='font-size:12.0pt;color:black'>Baku</span></st1:City><span
+ style='font-size:12.0pt;color:black'>, <st1:country-region w:st="on">Azerbaijan</st1:country-region></span></st1:place><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>Baku, Azerbaijan</span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span
+style='mso-spacerun:yes'>                 </span></span><span style='font-size:
+12.0pt;color:black'>Baku, <st1:place w:st="on"><st1:country-region w:st="on">Azerbaijan</st1:country-region></st1:place></span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span
+style='mso-spacerun:yes'>                    </span></span><span class=SpellE><u><span
+style='font-size:12.0pt;color:black'>fabo@box.az</span></u></span><u><span
+style='font-size:12.0pt;color:black'><o:p></o:p></span></u></p>
+
+<p class=MsoNormal style='margin-left:42.55pt;background:white'><u><span
+style='font-size:12.0pt;color:black'>fatullavev@gmail.com</span></u><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black'><span
+style='mso-spacerun:yes'>            </span></span><span class=SpellE><u><span
+style='font-size:12.0pt;color:black'>sevinc@dilmanc.az</span></u></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>This article is dedicated
+to the automation of the translation process of the composite sentences in the Azerbaijani
+language in an Azerbaijani-English MT system. First the Azerbaijani composite
+sentence is divided into simple sentences and English translation of the
+sentence is synthesized by using the translations of the simple sentences.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.138-142</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Some Problems in a
+French-Chinese Machine Translation System</span></b><span style='font-size:
+12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Gan Jin</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre <span
+class=SpellE>Tesnière</span>, Faculté des Lettres<br>
+<span class=SpellE>Universiée</span> de Franche-Comté</span><span lang=FR
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:FR;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Besançon,
+France<br>
+jingan1982@hotmail.com</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span lang=FR style='font-size:
+12.0pt;color:black;mso-ansi-language:FR;font-style:normal'>Abstract</span></b><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>The Chinese language is
+very different from European languages with respect to morphology, lexica,
+syntax and semantics. This complexity causes many problems in machine
+translation systems. ‘Rang' is a Chinese character morphologically simple, but
+its usage is very complicated. For a long time, linguists have been interested
+in its complexity. With all the efforts, the linguists have not come to agreement
+to this day as to the correct grammatical category. Some linguists consider it
+as a preposition, others as a verb. In this article, we try to explain the real
+usage of<sub> ‘</sub>Rang' sentence in a French-Chinese machine translation
+system for a specific domain where safety is extremely important and we show
+our methods of disambiguating verbs with respect to not only Chinese grammar
+but also French grammar because the latter is our source language in the translation
+system. Our objective is to create a reliable machine translation system.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+class=GramE><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'>pp.158-163</span></span><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>French-Vietnamese Noun
+phrase Translation</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Le <span class=SpellE>Thi</span> Sinh</span><span lang=FR
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:FR;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre <span
+class=SpellE>Tesnière</span>, Université de Franche-Comté, France<br>
+Stephanie_cuhb@yahoo.com</span><span lang=FR style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>Vietnamese is a noun
+classifier language, while this is not the case for French. This is why we
+encounter some problems when translating French noun phrases (NPs) into
+Vietnamese. This article will suggest a simple algorithm for French-Vietnamese
+NP translation after building a Vietnamese classifier-noun combination system
+which makes up a considerable knot to be solved in the algorithm. All these are
+realized basing on the results from the condensed comparative analyses of NPs
+of the two languages under consideration.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.172-178</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Cognitive Models of
+Yesterday and Today in Machine Translation and their<br>
+Implication for Controlled Languages</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Henri <span
+class=SpellE>Madec</span></span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black'>Tesnière</span></span><span
+style='font-size:12.0pt;color:black'> research <span class=SpellE>Center</span>
+in linguistics</span><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>University of <st1:place w:st="on"><st1:City
+ w:st="on">French County</st1:City>, <st1:country-region w:st="on">France</st1:country-region></st1:place></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black'>henri.madec@univ-fcomte.fr</span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>In this article we
+present a contradiction between the 50 years NLP epistemology based on
+behaviourism and the today's one that requires taking into account advances in
+brain imaging. The science of translation is certainly an idea developed after
+the Soviet experience of Pavlov on a stimulus-response model. Today we know
+better how the human brain works. It would be necessary to make a new science
+of translation, based on other principles and a new epistemology. This should
+be a necessity. And perhaps the probabilistic and statistical models in fashion
+now with Google lead us in this direction. But it is doubtful that the two last
+approaches go in the same direction.<span style='mso-spacerun:yes'>  </span>Also
+would it be better to defend the Soviet science of translation which doesn't
+prove quite outdated in the current state of the art and allow the controlled languages....
+even if it does not contribute to build a stable and consistent pattern of TAL.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.185-189</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Abduction Alerts in
+Greek and Spanish</span></b><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Eleni <span class=SpellE>Papadopoulou</span></span><span lang=FR
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;mso-ansi-language:FR;font-style:normal'><span
+style='mso-spacerun:yes'>                                            </span></span><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Marcel <span class=SpellE>Puig</span> <span class=SpellE>Portella</span></span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Universitat</span></span><span lang=FR style='font-size:12.0pt;color:black;
+mso-ansi-language:FR'> <span class=SpellE>Autònoma</span> de Barcelona</span><span
+lang=FR style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;mso-ansi-language:FR'><span
+style='mso-spacerun:yes'>                        </span></span><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Universitat</span></span><span lang=FR style='font-size:12.0pt;color:black;
+mso-ansi-language:FR'> <span class=SpellE>Autònoma</span> de Barcelona</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Eleni.Papadopoulou@uab.cat</span><span
+lang=FR style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;mso-ansi-language:FR'><span
+style='mso-spacerun:yes'>                                    </span></span><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Marcel.Puig@uab.cat</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>In this paper, we intend
+to present a redaction model of abduction alert messages for both Greek and
+Spanish languages, in the frame of the MESSAGE project. The main object of the
+present work is to describe the lexicographic groundwork needed in order to
+construct models applicable to NLP (Natural Language Processing) software,
+which would be able to generate and translate automatically texts in Greek and
+Spanish and to be further used in the controlled languages' field.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.190-197</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Grammatical and Lexical
+Errors Analysis of English-Vietnamese Translation<br>
+Texts with the Google &amp; EVTRAN Engines and Post-editing Tasks</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black;font-style:normal'>Phan</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Thi</span>
+<span class=SpellE>Thanh</span> <span class=SpellE>Thao</span>,</span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><st1:place
+w:st="on"><st1:PlaceName w:st="on"><span style='font-size:12.0pt;color:black'>Wolverhampton</span></st1:PlaceName><span
+ style='font-size:12.0pt;color:black'> <st1:PlaceType w:st="on">University</st1:PlaceType></span></st1:place><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><u><span
+style='font-size:12.0pt;color:black'>T.Phan.Thi.Thanh@wlv.ac.uk;
+thaohuy7269@yahoo.com</span></u><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>Evaluation of machine
+translation (MT) is a challenging task for computational linguists due to the variety
+of translation engines used to “decode” different pairs of languages. Although
+a large number of automatic evaluation measures have been proposed and studied
+over the last years, human judgements of MT quality still remain the best
+method for comparing and evaluating different MT systems. Moreover, to achieve
+the high quality of MT, manual post-editing tasks are taken into significant
+consideration. It is important to study the methods of post-editing the MT output
+fast and effectively, which requires the typical error analysis of different
+translation engines. This paper mentions the grammatical and lexical error analysis
+of English-Vietnamese translation texts extracted from BBC News from January to
+May 2009 with the Google and EVTRAN engines. Based on the error analysis, some
+manual post-editing tasks are suggested to improve the quality of translation
+engines to some extent.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.198-202</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Treatment of the
+Imperative Forms in the Machine Translation between</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Catalan, Spanish and
+Greek</span></b><span style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Marcel <span
+class=SpellE>Puig</span> <span class=SpellE>Portella</span></span><span
+style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;font-style:normal'><span
+style='mso-spacerun:yes'>                                          </span></span><span
+class=SpellE><span style='font-size:12.0pt;color:black;font-style:normal'>Eleni</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Papadopoulou</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Universitat</span></span><span lang=FR style='font-size:12.0pt;color:black;
+mso-ansi-language:FR'> <span class=SpellE>Autònoma</span> de Barcelona</span><span
+lang=FR style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;mso-ansi-language:FR'><span
+style='mso-spacerun:yes'>                     </span></span><span class=SpellE><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Universitat</span></span><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'> <span
+class=SpellE>Autònoma</span> de Barcelona</span><span lang=FR style='font-size:
+12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Marcel.Puig@uab.cat</span><span
+lang=FR style='font-size:12.0pt;font-family:Arial;mso-hansi-font-family:"Times New Roman";
+mso-bidi-font-family:Arial;color:black;mso-ansi-language:FR'><span
+style='mso-spacerun:yes'>                                   </span></span><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Eleni.Papadopoulou@uab.cat</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>This paper is a fruit of
+our research on controlled languages and their automatic/machine translation in
+the frame of Alert Messages and Protocols project and its purpose is twofold. Firstly,
+we outline the imperative and alter-imperative forms in Catalan, Greek and
+Spanish. Following to this description, we propose a systematic treatment of
+these forms in the framework of the automatic translation and the controlled
+languages.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.231-235</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Polish controlled
+language and its machine translation into French</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black;font-style:normal'>Zuzanna</span></span><span
+style='font-size:12.0pt;color:black;font-style:normal'> <span class=SpellE>Rudas</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre <span
+class=SpellE>Tesnière</span>, Université de Franche-Comté, Besançon<br>
+z.rudas@gmail.com</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span style='font-size:9.0pt;
+color:black;font-style:normal'>This paper presents some difficulties
+encountered during the analysis of Polish controlled protocols about the fire
+regulations in their aim for a machine translation into French. The applied
+method to solve the problems uses the systemic linguistics.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.249-255</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Post-editing Experiments
+with MT for a Controlled Language</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:12.0pt;color:black;font-style:normal'>Irina <span
+class=SpellE>Temnikova</span> and <span class=SpellE>Constantin</span> <span
+class=SpellE>Orasan</span><br>
+</span><span style='font-size:12.0pt;color:black'>Research Institute in
+Information and Language Processing</span><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><st1:place
+w:st="on"><st1:City w:st="on"><span style='font-size:12.0pt;color:black'>University
+  of Wolverhampton</span></st1:City><span style='font-size:12.0pt;color:black'>,
+ <st1:country-region w:st="on">UK</st1:country-region></span></st1:place><br>
+<span style='font-size:12.0pt;color:black'>E-mail: I.Temnikova2@wlv.ac.uk,
+C.0rasan@wlv.ac.uk</span><span style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>This paper aims to
+establish whether a new controlled language (CL) for emergency-related texts could
+facilitate both human and machine translation. To achieve this, an experiment
+involving an MT engine and human translators and post-editors was conduced. In
+order to estimate whether the CL pre-editing has an impact on human and machine
+translation, the time to manually translate, the time to post-edit and the edit
+distance between the original and the simplified texts were measured. The
+results of the experiment confirm the hypothesis.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.256-259</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Research into the
+Practicality of Machine Translation of Administrative</span></b><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR;font-style:
+normal'>Documents</span></b><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR;font-style:normal'>Tsai</span></span><span lang=FR style='font-size:12.0pt;
+color:black;mso-ansi-language:FR;font-style:normal'> Yi-Jung</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre <span
+class=SpellE>Tesnière</span></span><span lang=FR style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>30, Rue de <span
+class=SpellE>Mégevand</span>,</span><span lang=FR style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>25000 Besançon,
+France</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;
+mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>charlotte0421@gmail.com</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>This paper discusses
+Machine Translation (MT) in the domain of administrative documents. MT is not only
+an interesting field for research but also has an immense practical value to
+society. Due to the fact that natural languages contain many ambiguities and
+there is too much information for the corpus to be complete, there are still
+some problems to resolve and some obstacles to overcome. However,
+administrative documents issued by governments and other official institutions,
+which are written in a standard form, with an identical structure, limited
+vocabulary and rarely contain ambiguities are just an ideal sublanguage domain
+to treat in which fully automatic high quality translation is achievable.<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>---<o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><span class=GramE><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>pp.260-268</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><b><span
+style='font-size:12.0pt;color:black;font-style:normal'>Building a Linguistic
+Database for Chinese Interrogative Sentences</span></b><span style='font-size:
+12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR;font-style:normal'>Xiaohong</span></span><span lang=FR style='font-size:
+12.0pt;color:black;mso-ansi-language:FR;font-style:normal'> Wu</span><span
+lang=FR style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:
+FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Centre <span
+class=SpellE>Tesnière</span>, Faculté des Lettres<br>
+Université de Franche-Comté, France</span><span lang=FR style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:FR'>Faculté de
+Langues Etrangères</span><span lang=FR style='font-size:12.0pt;mso-bidi-font-family:
+Mangal;mso-ansi-language:FR;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span lang=FR style='font-size:12.0pt;color:black;mso-ansi-language:
+FR'>Minzu</span></span><span lang=FR style='font-size:12.0pt;color:black;
+mso-ansi-language:FR'> Université de Qinghai, Chine</span><span lang=FR
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;mso-ansi-language:FR;
+font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center;background:white'><span
+class=SpellE><span style='font-size:12.0pt;color:black'>wuxiaohongfr@yahoo.com.cn</span></span><span
+style='font-size:12.0pt;mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='background:white'><b><span style='font-size:12.0pt;
+color:black;font-style:normal'>Abstract</span></b><span style='font-size:12.0pt;
+mso-bidi-font-family:Mangal;font-style:normal'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify;background:white'><span
+style='font-size:9.0pt;color:black;font-style:normal'>Analysis of the
+interrogative sentences plays an important role in systems that focus on work
+such as question-answering and/or human-machine communication. In this paper we
+present the work we have done for a multilingual MT system. Texts collected for
+the building of the parallel corpora are those from the domains where the
+accurate interpretation of the texts is extremely crucial. Therefore, exact and
+accurate translation is not only necessary but also obligatory. To reach high
+quality translations, we adopt the controlled language technique. Here we lay
+focus on building a linguistic database for the analysis and transfer of the
+French interrogative sentences into Chinese, which play an important role in
+some texts in our corpora. We will introduce how we classify and control the interrogative
+sentences in our work. We will describe the classifications and the linguistic
+information needed when processing the interrogative sentences according to
+their differed usages.</span><span style='font-size:9.0pt;mso-bidi-font-family:
+Mangal;font-style:normal'><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>

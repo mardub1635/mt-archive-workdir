@@ -1,0 +1,933 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<base href="http://www.mt-archive.info/jnl/">
+<link rel=File-List
+href="file:///C:\Users\John\Documents\MT%20Archive\MT-A%20new\transf%20jnl\NTCIR-TOC_files\filelist.xml">
+<title>NTCIR contents</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="City"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="country-region"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="State"/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>John Hutchins</o:Author>
+  <o:LastAuthor>Hutchins</o:LastAuthor>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>207</o:TotalTime>
+  <o:Created>2009-11-03T11:48:00Z</o:Created>
+  <o:LastSaved>2014-01-22T11:03:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2153</o:Words>
+  <o:Characters>12277</o:Characters>
+  <o:Lines>102</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14402</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:DisplayBackgroundShape/>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>6 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>8.15 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-GB;
+	mso-fareast-language:EN-GB;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:EN-US;
+	mso-fareast-language:EN-US;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:72.0pt 72.0pt 17.85pt 72.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-GB link=blue vlink=purple style='tab-interval:36.0pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='margin-right:-22.65pt;text-align:center'><b><span
+style='font-size:22.0pt'>NTCIR workshops<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='margin-right:-22.65pt;text-align:center'>[NTCIR
+= NII Test Collection for IR systems]</p>
+
+<p class=MsoNormal align=center style='margin-right:-22.65pt;text-align:center'>[NII
+= National Institute for Informatics, <st1:place w:st="on"><st1:City w:st="on">Tokyo</st1:City></st1:place>]</p>
+
+<p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal align=center style='margin-right:-22.65pt;text-align:center'><b><span
+style='font-size:16.0pt'>Selected papers on cross-language information
+retrieval (CLIR) task<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><b>1999<o:p></o:p></b></p>
+
+<p class=MsoNormal>NTCIR-1, August 30 – September 1, 1999</p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><i><span lang=EN-US
+style='font-size:10.0pt'>Proceedings of the First NTCIR Workshop on Research in
+Japanese Text retrieval and Term Recognition</span></i><span lang=EN-US
+style='font-size:10.0pt'>, August 30 – September 1, <st1:place w:st="on"><st1:City
+ w:st="on">Tokyo</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place>.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:36.0pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Atsushi Fujii &amp; Tetsuya Ishikawa: <a
+href="NTCIR-1999-Fujii.pdf">Cross-language information retrieval at ULIS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Chuan-Jie Lin, Wen-Cheng Lin, Guo-Wei Bian,
+&amp; Hsin-Hsi Chen: <a href="NTCIR-1999-Lin.pdf">Description of the NTU
+Japanese-English cross-lingual information retrieval system used for NTCIR
+Workshop</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Shoji Mizobuchi, Sankon Lee, Fumihiko Kawano,
+Tsuyoshi Kobayashi, &amp; Takahiro Komatsu: <a href="NTCIR-1999-Mizobuchi.pdf">Multi-lingual
+multi-media information retrieval system</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>S.Nakazawa, T.Ochiai, K.Satoh &amp;
+A.Okumura: <a href="NTCIR-1999-Nakazawa.pdf">Cross language information
+retrieval based on comparable corpora</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Douglas W.Oard &amp; Jianqiang Wang: <a
+href="NTCIR-1999-Oard.pdf">NTCIR CLIR experiments at the University of Maryland</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tetsuya Sakai, Yasuyo Shibazaki, Masaru
+Suzuki, &amp; Masahiro Kajiura: <a href="NTCIR-1999-Sakai.pdf">Cross-language
+information retrieval for NTCIR at Toshiba</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Ryuichi Sawada &amp; Kyoji Umemura: <a
+href="NTCIR-1999-Sawada.pdf">Dynamic programming – a new paradigm for
+information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b>2001<o:p></o:p></b></p>
+
+<p class=MsoNormal>NTCIR-2, 2001 March 7-9</p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><i><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>NTCIR Workshop 2:
+Proceedings of the Second NTCIR Workshop on Research in Chinese &amp; Japanese
+Text retrieval and Text Summarization</span></i><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>, March 7-9, 2001, Tokyo,
+Japan<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Guo-Wei Bian &amp; Chi-Ching Lin: <a
+href="NTCIR-2001-Bian.pdf">Trans-EZ at NTCIR-2: synset co-occurrence method for
+English-Chinese cross-lingual information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Martin Braschler &amp; Carol Peters: <a
+href="NTCIR-2001-Braschler.pdf">The CLEF campaign</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Aitao Chen, Frederic C.Gey &amp; Hailing
+Jiang: <a href="NTCIR-2001-Chen.pdf">Berkeley at NTCIR-2: Chinese, Japanese,
+and English IR experiments</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>K.L.Kwok: <a href="NTCIR-2001-Kwok.pdf">NTCIR-2
+Chinese, cross language retrieval experiment using PIRCS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tatsunori Mori, Tomoharu Kokubu, &amp; Takashi
+Tanaka: <a href="NTCIR-2001-Mori.pdf">Cross-lingual information retrieval based
+on LSI with multiple word spaces</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Masaki Murata, Masao Utiyama, Qing Ma, Hiromi
+Ozaku, &amp; Hitoshi Isahara: <a href="NTCIR-2001-Murata.pdf">CRL at NTCIR2</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tetsuya Sakai, Stephen E.Robertson, &amp;
+Stephen Walker: <a href="NTCIR-2001-Sakai.pdf">Flexible pseudo-relevance
+feedback for NTCIR-2</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Seigo Tanimura, Masashi Suzuki, Hiroshi
+Nakagawa, &amp; Tatsunori Mori: <a href="NTCIR-2001-Tanimura.pdf">Japanese and
+English cross-lingual information retrieval at DLUT</a>. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b>2002<o:p></o:p></b></p>
+
+<p class=MsoNormal>NTCIR-3, 2002 October 8-10</p>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>NTCIR
+Workshop 3: Proceedings of the Third NTCIR Workshop on Research in Information
+Retrieval, Automatic Text Summarization and Question Answering</span></i><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>, October 8-10, 2002, Tokyo,
+Japan</span></p>
+
+<p class=MsoNormal><b><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Atsushi Fujii &amp; Tetsuya Ishikawa: <a
+href="NTCIR-2002-Fujii.pdf">NTCIR-3 cross-language IR experiments at ULIS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:36.0pt;
+margin-bottom:.0001pt;text-indent:-36.0pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Aitao Chen &amp; Frederic C.Gey: <a
+href="NTCIR-2002-Chen.pdf">Experiments on cross-language and patent retrieval at
+NTCIR-3 workshop</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Hongzhao He &amp; Jianfeng Gao: <a
+href="NTCIR-2002-He.pdf">NTCIR-3 CLIR experiments at MSRA</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Myung Gil Jang, Pyung Kim, Yun Jin, Suk-Hyun
+Cho, &amp; Sung Hyon Myaeng: <a href="NTCIR-2002-Jang.pdf">Simple query
+translation methods for Korean-English and Korean-Chinese CLIR in NTCIR
+experiments</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>K.L.Kwok: <a href="NTCIR-2002-Kwok.pdf">NTCIR-3
+Chinese, cross language retrieval experiments using PIRCS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Wen-Cheng Lin &amp; Hsin-Hsi Chen: <a
+href="NTCIR-2002-Lin.pdf">Description of NTU approach to NTCIR3 multilingual
+information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Isabelle Moulinier, Hugo Molina-Salgado,
+&amp; Peter Jackson: <a href="NTCIR-2002-Moulinier.pdf">Thomson Legal and
+Regulatory at NTCIR-3: Japanese, Chinese and English retrieval experiments</a>.<span
+style='mso-tab-count:1'>         </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Magnus Sahlgren, Preben Hansen &amp; Jussi
+Karlgren: <a href="NTCIR-2002-Sahlgren.pdf">English-Japanese cross-lingual
+query expansion using random indexing of aligned bilingual text data</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tetsuya Sakai, Makoto Koyama, Masaru Suzuki,
+&amp; Toshihiko Manabe: <a href="NTCIR-2002-Sakai.pdf">Toshiba KIDS at NTCIR-3:
+Japanese and English-Japanese IR</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Hee-Cheol Seo, Sang-Bum Kim, Baeg-Il Kim,
+Hae-Chang Rim &amp; Sang-Zoo Lee: <a href="NTCIR-2002-Seo.pdf">KUNLP system for
+NTCIR-3 English-Korean cross-language information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Yiming Yang &amp; Nianli Ma: <a
+href="NTCIR-2002-Yang.pdf">CMU in cross-language information retrieval at
+NTCIR-3</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Junlin Zhang, Le Sun, Weimin Qu, Lin Du,
+Yufang Sun, Yangxing Fan, Zhigen Lin: <a href="NTCIR-2002-Zhang.pdf">ISCAS at
+NTCIR-3: monolingual, bilingual and multilingual IR</a>. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='mso-ansi-language:EN-US'>2004<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>NTCIR-4,
+2004 June 2-4<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Proceedings
+of NTCIR-4</span></i><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>,
+<st1:place w:st="on"><st1:City w:st="on">Tokyo</st1:City></st1:place>, 2-4 June
+2004</span><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Noriko Kando: <a href="NTCIR-2004-Kando.pdf">Overview
+of the Fourth NTCIR Workshop</a>. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Kazuaki Kishida, Kuang-hua Chen, Sukhoon Lee,
+Kazuko Kuriyama, Noriko Kando, Hsin-His Chen, Sung Hyon Myaeng, &amp; Koji
+Eguchi: <a href="NTCIR-2004-Kishida-1.pdf">Overview of CLIR task at the Fourth
+NTCIR Workshop</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Atsushi Fujii &amp; Tetsuya Ishikawa: <a
+href="NTCIR-2004-Fujii.pdf">Cross-language IR at University of Tsukuba:
+automatic transliteration for Japanese, English and Korean</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Frederic C. Gey: <a href="NTCIR-2004-Gey.pdf">Chinese
+and Korean topic search of Japanese news collections</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>In-Su Kang, Seung-Hoon Na, &amp; Jong-Hyeok
+Lee: <a href="NTCIR-2004-Kang.pdf">Combination approaches in information
+retrieval: words vs. n-grams, and query translation vs. document translation</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Kazuaki Kishida, Kazuko Kuriyama, Noriko
+Kando, &amp; Koji Eguchi: <a href="NTCIR-2004-Kishida-2.pdf">Prediction of
+performance on cross-lingual information retrieval by regression models</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Yuichi Kojima &amp; Hideo Itoh: <a
+href="NTCIR-2004-Kojima.pdf">Ricoh in the NTCIR-4 CLIR tasks</a>. <span
+style='color:red'><o:p></o:p></span></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Gina-Anne Levow: <a
+href="NTCIR-2004-Levow.pdf">University of Chicago at NTCIR4 CLIR: multi-scale
+query expansion</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Wen-Cheng Lin &amp; Hsin-Hsi Chen: <a
+href="NTCIR-2004-Lin.pdf">Merging multilingual information retrieval results
+based on prediction of retrieval effectiveness</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Fuminori Kimura, Akira Maeda &amp; Shunsuke
+Uemura: <a href="NTCIR-2004-Kimura.pdf">CLIR using web directory at NTCIR4</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>K.L.Kwok, N.Dinstl &amp; S.Choi: <a
+href="NTCIR-2004-Kwok.pdf">NTCIR-4 Chinese, English, Korean cross language
+retrieval experiments using PIRCS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Isabelle Moulinier: <a
+href="NTCIR-2004-Moulinier.pdf">Thomson Legal and Regulatory at NTCIR-4: monolingual
+and pivot-language retrieval experiments</a>.<span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Yan Qu, Gregory Grefenstette, David A.Hull,
+David A.Evans, Toshiya Ueda, Tatsuo Kato, Daisuke Noda, Motoko Ishikawa,
+Setsuko Nara, &amp; Kousaku Arita: <a href="NTCIR-2004-Qu.pdf">Justsystem-Clairvoyance
+CLIR experiments at NTCIR-4 Workshop</a>. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='mso-ansi-language:EN-US'>2005<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>NTCIR-5,
+2005 December 6-9<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'>Proceedings of NTCIR-5 Workshop meeting</span></i><span lang=EN-US
+style='font-size:10.0pt;mso-ansi-language:EN-US'>, December 6-9, 2005, <st1:place
+w:st="on"><st1:City w:st="on">Tokyo</st1:City>, <st1:country-region w:st="on">Japan</st1:country-region></st1:place><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt;tab-stops:99.25pt'><span lang=EN-US
+style='font-size:10.0pt'>Noriko Kando: <a href="NTCIR-2005-Kando.pdf">Overview
+of the Fifth NTCIR Workshop</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Kazuaki Kishida, Kuang-hua Chen, Sukhoon Lee,
+Kazuko Kuriyama, Noriko Kando, Hsin-His Chen, &amp; Sung Hyon Myaeng: <a
+href="NTCIR_2005-Kishida.pdf">Overview of CLIR task at the Fifth NTCIR Workshop</a>.<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Samir Abdou &amp; Jacques <st1:place w:st="on"><st1:State
+ w:st="on">Savoy</st1:State></st1:place>: <a href="NTCIR-2005-Abdou.pdf">Report
+on CLIR task for the NTCIR-5 evaluation campaign</a>. </span><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Frederic C.Gey: <a href="NTCIR-2005-Gey.pdf">How
+similar are Chinese and Japanese for cross-language information retrieval</a>? <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Kui-Lam Kwok, Sora Choi, Norbert Dinstl,
+&amp; Peter Deng: <a href="NTCIR-2005-Kwok.pdf">NTCIR-5 Chinese, English,
+Korean cross-language retrieval experiments using PIRCS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Jiun-Hung Lin, Min-Shiang Shia, Kao-Hung Lin,
+Shu-Jung Lin, Scott Yu, &amp; Wen-Hsiang Lu: <a href="NTCIR-2006-Lin.pdf">Search-result-based
+method for unknown term translation in cross-language information retrieval</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Jinming Min, Le Sun, &amp; Junlin Zhang: <a
+href="NTCIR-2005-Min.pdf">ISCAS in English-Chinese CLIR at NTCIR-5</a>.<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Isabelle Moulinier &amp; Ken Williams: <a
+href="NTCIR-2005-Moulinier.pdf">Thomson Legal and Regulatory at NTCIR-5:
+Japanese and Korean experiments</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Masaki Murata, Qing Ma, &amp; Hitoshi
+Isahara: <a href="NTCIR-2005-Murata.pdf">Applying multiple charcteristics and
+techniques in the NICT information retrieval system in NTCIR-5</a>.<span
+style='mso-spacerun:yes'>  </span></span><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Tetsuji Nakagawa&nbsp;: <a
+href="NTCIR-2005-Nakagawa.pdf">NTCIR-5 CLIR experiments at Oki</a>. </span><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Seung-Hoon Na, In-Su Kang, &amp; Jong-Hyeok
+Lee: <a href="NTCIR-2005-Na.pdf">POSTECH at NTCIR-5: combining evidences of
+multiple term extractions for mono-lingual and cross-lingual retrieval in
+Korean and Japanese</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tetsuya Sakai, Toshihiko Manabe, Akira
+Kumano, Makoto Koyama, &amp; Tomoharu Kokubu: <a href="NTCIR-2005-Sakai.pdf">Toshiba
+BRIDJE at NTCIR-5 CLIR: evaluation using geometric means</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Stephen Tomlinson: <a
+href="NTCIR-2005-Tomlinson.pdf">CJK experiments with Hummingbird SearchServer<sup>TM</sup>
+at NTCIR-5</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Julio Villena-Román, José Miguel Goñi-Menoyo,
+José C.González-Cristóbal, &amp; José Luis Martínez-Fernández: <a
+href="NTCIR-2005-Villena.pdf">MIRACLE retrieval experiments with East Asian
+languages</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Ying Zhang &amp; Phil Vines: <a
+href="NTCIR-2005-Zhang.pdf">Using the web for translation disambiguation: RMIT
+University at NTCIR-5 Chinese-English CLIR</a>.<span style='mso-spacerun:yes'> 
+</span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='mso-ansi-language:EN-US'>2007<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>NTCIR-6,
+2007 May 15-18<o:p></o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Proceedings
+of NTCIR-6 Workshop Meeting</span></i><span style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>, May 15-18, 2007, <st1:place w:st="on"><st1:City w:st="on">Tokyo</st1:City>,
+ <st1:country-region w:st="on">Japan</st1:country-region></st1:place><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'>Maristella Agosti, Giorgio Maria di Nunzio, Nicola Ferro &amp; Carol
+Peters: <a href="NTCIR-2007-Agosti.pdf">CLEF: ongoing activities and plans for
+the future</a>.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'>Tomoyosi Akiba &amp; Kei Shimizu: <a href="NTCIR-2007-Akiba.pdf">Statistical
+machine translation based passage retrieval for cross-lingual question
+answering – experiments at NTCIR-6</a>. </span><span style='font-size:10.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'>Kui-Lam Kwok, Peter Deng
+&amp; Norbert Dinstl: <a href="NTCIR-2007-Kwok-2.pdf">NTCIR-6 monolingual
+Chinese and English-Chinese cross-lingual question answering experiments using
+PIRCS</a>.<span style='mso-spacerun:yes'>  </span></span><span
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'>Teruko Mitamura, Frank Lin,
+Hideki Shima, Mengqiu Wang, Jeongwoo Ko, Justin Betteridge, Matthew Bilotti,
+Andrew Schlaikjer &amp; Eric Nyberg: <a href="NTCIR-2007-Mitamura.pdf">JAVELIN
+III: cross-lingual question answering from Japanese and Chinese documents</a>.<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'>CLIR task<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Chen-Hsin Cheng, Reuy-Jye Shue, Hung-Lin Lee,
+Shu-Yu Hsieh, Guann-Cyun Yeh, &amp; Guo-Wei Bian: <a href="NTCIR-2007-Cheng.pdf">AINLP
+at NTCIR-6: evaluations for multilingual and cross-lingual information
+retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Frederic C.Gey: <a href="NTCIR-2007-Gey.pdf">Search
+between Chinese and Japanese text collections</a>.<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Ruihong Huang, Le Sun, Jing
+Li, Longxi Pan, &amp; Junlin Zhang: <a href="NTCIR-2007-Huang.pdf">ISCAS in
+CLIR at NTCIR-6&nbsp;: experiments with MT and PRF</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Vitaly Klyuev: <a
+href="NTCIR-2007-Klyuev.pdf">OASIS at NTCIR-6: on-line query translation for
+Chinese-Japanese cross-lingual information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Kui-Lam Kwok &amp; Norbert
+Dinstl: <a href="NTCIR-2007-Kwok-1.pdf">NTCIR-6 Chinese monolingual and
+English-Chinese cross language retrieval experiments using PIRCS</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Chengye Lu, Yue Xu, &amp;
+Shlomo Geva: <a href="NTCIR-2007-Lu.pdf">Improving translation accuracy in
+web-based translation extraction</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Masaki Murata, Jong-Hoon Oh, Qing Ma &amp;
+Hitoshi Isahara: <a href="NTCIR-2007-Murata.pdf">Applying multiple
+charcteristics and techniques in the NICT information retrieval system in
+NTCIR-6</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Seung-Hoon Na, Jungi Kim, Ye-Ha Lee, &amp;
+Jong-Hyeok Lee: <a href="NTCIR-2007-Na.pdf">POSTECH at NTCIR-6: combining
+evidences of multiple term extractions for mono-lingual and cross-lingual
+retrieval in Korean and Japanese</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Kazuaki Kishida, Kuang-hua Chen, Sukhoon Lee,
+Kazuko Kuriyama, Noriko Kando, &amp; Hsin-His Chen: <a
+href="NTCIR-2007-Kishida.pdf">Overview of CLIR task at the Sixth NTCIR Workshop</a>.<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Noriko Kando: <a href="NTCIR-2007-Kando.pdf">Overview
+of the Sixth NTCIR Workshop</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tetsuya Sakai, Makoto Koyama, Tatsuya Izuha,
+Akira Kumano, Toshihiko Manabe, &amp; Tomoharu Kokubu: <a
+href="NTCIR-2007-Sakai.pdf">Toshiba BRIDJE at NTCIR-6 CLIR: the head/lead
+method and graded relevance feedback</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Lixin Shi &amp; Jian-Yun Nie: <a
+href="NTCIR-2007-Shi.pdf">Using unigram and bigram language models for
+monolingual and cross-language IR</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Chen-Yu Su, Tien-Chien Lin &amp; Shih-Hung
+Wu: <a href="NTCIR-2007-Su.pdf">Using Wikipedia to translate OOV terms on MLIR</a>.
+<o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Yu-Chun Wang, Cheng-Wei Lee, Richard
+Tzong-Han Tsai, &amp; Wen-Lian Hsu: <a href="NTCIR-2007-Wang.pdf">IASL system
+for NTCIR-6 Korean-Chinese cross-language information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Yu-Chieh Wu, Kun-Chang Tsai, &amp; Jie-Chi
+Yang: <a href="NTCIR-2007-Wu.pdf">NCU in bilingual information retrieval
+experiments at NTCIR-6</a>.<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Yang Lingpeng, Ji Donghong,
+&amp; Nie Yu&nbsp;: <a href="NTCIR-2007-Yang.pdf">Information retrieval using
+label propagation based ranking</a>. </span><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Dong Zhou, Mark Truran, Tim Brailsford &amp;
+Helen Ashman: <a href="NTCIR-2007-Zhou.pdf">NTCIR-6 experiments using pattern
+matched translation extraction</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='mso-ansi-language:EN-US'>2008<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-ansi-language:EN-US'>NTCIR-7,
+2008, December 16-19</span><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><i><span lang=EN-US
+style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Proceedings of NTCIR-7
+Workshop Meeting</span></i><span lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:
+12.0pt'>, December 16-19, 2008, <st1:place w:st="on"><st1:City w:st="on">Tokyo</st1:City>,
+ <st1:country-region w:st="on">Japan</st1:country-region></st1:place><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt'>Noriko Kando: <a href="NTCIR-2008-Kando.pdf">Overview of the Seventh
+NTCIR Workshop</a><span style='color:red'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US style='font-size:10.0pt;mso-ansi-language:
+EN-US'>CLIR task<o:p></o:p></span></b></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Nicola Ferro &amp; Carol Peters: <a
+href="NTCIR-2008-Ferro.pdf">From CLEF to TrebleCLEF: the evolution of the
+cross-language evaluation forum</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>He Xiaoning, Wang Peidong, Qi Haoliang, Yang
+Muyun, Lei Guohua, &amp; Xue Yong: <a href="NTCIR-2008-He.pdf">Using Google
+translation in cross-lingual information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Tatsuhiro Hyodo &amp; Tomoyosi Akiba: <a
+href="NTCIR-2008-Hyodo.pdf">Statistical machine translation based passage
+retrieval – experiment at NTCIR-7 IR4QA task</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt;color:red'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'>Ni Lao, Hideki Shima, Teruko Mitamura &amp;
+Eric Nyberg: <a href="NTCIR-2008-Lao.pdf">Query expansion and machine
+translation for robust cross-lingual information retrieval</a>. <o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;color:red;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span style='font-size:10.0pt;
+mso-bidi-font-size:12.0pt;mso-ansi-language:EN-GB'>Teruko Mitamura, Eric
+Nyberg, Hideki Shima, Tsuneaki Kato, Tatsunori Mori, Chin-Yew Lin,<span
+style='mso-spacerun:yes'>  </span>Ruihua Song, Chuan-Jie Lin, Tetsuya Sakai,
+Donghong Ji, &amp; Noriko Kando: <a href="NTCIR-2008-Mitamura.pdf">Overview of
+the NTCIR-7 ACLIA tasks: advanced cross-lingual information access</a>. </span><span
+lang=EN-US style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
+
+<p style='margin:0cm;margin-bottom:.0001pt'><span lang=EN-US style='font-size:
+10.0pt;mso-bidi-font-size:12.0pt'><span style='mso-spacerun:yes'> </span><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
